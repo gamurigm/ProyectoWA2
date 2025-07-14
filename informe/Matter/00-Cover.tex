@@ -1,21 +1,31 @@
-% Simplified cover without background image
-\newcommand\BackgroundPicCover{%
-\put(0,0){%
-\parbox[b][\paperheight]{\paperwidth}{%
-\vfill
-\centering
-% Background color instead of image
-\textcolor{blue!10}{\rule{\paperwidth}{\paperheight}}%
-\vfill
-}}}
+\ifthenelse{\equal{\CoverOption}{classic}}{
+    \newcommand\BackgroundPicCover{%
+    \put(0,0){%
+    \parbox[b][\paperheight]{\paperwidth}{%
+    \vfill
+    \centering
+    \includegraphics[width=\paperwidth,height=\paperheight]{%
+        Figures/Theme/Cover-BG.pdf}%
+    \vfill
+    }}}
+}{
+    \newcommand\BackgroundPicCover{%
+    \put(0,0){%
+    \parbox[b][\paperheight]{\paperwidth}{%
+    \vfill
+    \centering
+    \includegraphics[width=\paperwidth,height=\paperheight]{%
+        Figures/Theme/Cover-BG.pdf}%
+    \vfill
+    }}}
+}
 
-% Comment out the background for now
-% \AddToShipoutPictureBG*{\BackgroundPicCover}
+\AddToShipoutPictureBG*{\BackgroundPicCover}
 
 \newgeometry{margin=1.98cm, top=2.15cm, bottom=1.47cm}
 \begin{titlepage}
     \latofont
-    \ifthenelse{\equal{\CoverOption}{classic}}{\color{white}}{\color{frontpagedark}}
+    \color{black}  % Cambio a negro para mejor visibilidad
     \vspace*{\baselineskip}
 
     % Encabezado institucional ESPE

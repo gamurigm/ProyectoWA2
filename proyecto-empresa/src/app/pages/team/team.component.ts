@@ -9,7 +9,7 @@ import { TeamMember } from '../../models/team-member.model';
   standalone: true,
   imports: [CommonModule, RouterLink],
   template: `
-    <div class="team-page">
+    <div class="team-page page-content">
       <!-- Hero Section -->
       <section class="hero">
         <div class="container">
@@ -146,7 +146,7 @@ import { TeamMember } from '../../models/team-member.model';
   `,
   styles: [`
     .team-page {
-      padding-top: 80px;
+      /* padding-top removed - now handled by .page-content */
     }
 
     .container {

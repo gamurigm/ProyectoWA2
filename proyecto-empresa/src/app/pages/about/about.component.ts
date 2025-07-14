@@ -8,7 +8,7 @@ import { CompanyInfo } from '../../models/company.model';
   standalone: true,
   imports: [CommonModule],
   template: `
-    <div class="about-page">
+    <div class="about-page page-content">
       <!-- Hero Section -->
       <section class="hero">
         <div class="container">
@@ -150,7 +150,7 @@ import { CompanyInfo } from '../../models/company.model';
   `,
   styles: [`
     .about-page {
-      padding-top: 80px;
+      /* padding-top removed - now handled by .page-content */
     }
 
     .container {

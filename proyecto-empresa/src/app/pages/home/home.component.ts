@@ -7,7 +7,7 @@ import { RouterLink } from '@angular/router';
   standalone: true,
   imports: [CommonModule, RouterLink],
   template: `
-    <div class="home-page">
+    <div class="home-page page-content">
       <!-- Hero Section -->
       <section class="hero">
         <div class="hero-container">
@@ -110,7 +110,7 @@ import { RouterLink } from '@angular/router';
   `,
   styles: [`
     .home-page {
-      padding-top: 80px;
+      /* padding-top removed - now handled by .page-content */
     }
 
     .container {

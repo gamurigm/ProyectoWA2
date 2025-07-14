@@ -7,7 +7,7 @@ import { FormBuilder, FormGroup, Validators, ReactiveFormsModule } from '@angula
   standalone: true,
   imports: [CommonModule, ReactiveFormsModule],
   template: `
-    <div class="contact-page">
+    <div class="contact-page page-content">
       <!-- Hero Section -->
       <section class="hero">
         <div class="container">
@@ -246,7 +246,7 @@ import { FormBuilder, FormGroup, Validators, ReactiveFormsModule } from '@angula
   `,
   styles: [`
     .contact-page {
-      padding-top: 80px;
+      /* padding-top removed - now handled by .page-content */
     }
 
     .container {

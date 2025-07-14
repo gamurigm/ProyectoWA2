@@ -9,7 +9,7 @@ import { TeamMember } from '../../models/team-member.model';
   standalone: true,
   imports: [CommonModule, RouterLink],
   template: `
-    <div class="team-detail-page" *ngIf="member">
+    <div class="team-detail-page page-content" *ngIf="member">
       <!-- Hero Section -->
       <section class="hero">
         <div class="container">
@@ -185,7 +185,7 @@ import { TeamMember } from '../../models/team-member.model';
   `,
   styles: [`
     .team-detail-page {
-      padding-top: 80px;
+      /* padding-top removed - now handled by .page-content */
     }
 
     .container {

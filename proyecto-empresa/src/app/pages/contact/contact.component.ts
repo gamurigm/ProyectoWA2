@@ -183,16 +183,16 @@ import { FormBuilder, FormGroup, Validators, ReactiveFormsModule } from '@angula
               <div class="social-section">
                 <h4>Síguenos</h4>
                 <div class="social-links">
-                  <a href="#" class="social-link linkedin">
+                  <a href="https://ec.linkedin.com/company/techsolutions" class="social-link linkedin" target="_blank">
                     <i class="fab fa-linkedin-in"></i>
                   </a>
-                  <a href="#" class="social-link github">
+                  <a href="https://github.com/techsolutions-pro" class="social-link github" target="_blank">
                     <i class="fab fa-github"></i>
                   </a>
-                  <a href="#" class="social-link twitter">
+                  <a href="http://x.com/techsolutionsde" class="social-link twitter" target="_blank">
                     <i class="fab fa-twitter"></i>
                   </a>
-                  <a href="#" class="social-link instagram">
+                  <a href="https://www.instagram.com/techsolutionscr/" class="social-link instagram" target="_blank">
                     <i class="fab fa-instagram"></i>
                   </a>
                 </div>

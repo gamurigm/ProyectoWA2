@@ -1,0 +1,9 @@
+[0] Config.pm:307> INFO - This is Biber 2.19
+[1] Config.pm:310> INFO - Logfile is 'temp\IPLeiriaMain.blg'
+[176] biber-MSWIN64:340> INFO - === 
+[241] Biber.pm:419> INFO - Reading 'temp\IPLeiriaMain.bcf'
+[403] Biber.pm:979> INFO - Found 0 citekeys in bib section 0
+[429] bbl.pm:660> INFO - Writing 'temp\IPLeiriaMain.bbl' with encoding 'UTF-8'
+[430] bbl.pm:763> INFO - Output to temp\IPLeiriaMain.bbl
+[432] Biber.pm:131> WARN - The file 'temp\IPLeiriaMain.bcf' does not contain any citations!
+[432] Biber.pm:133> INFO - WARNINGS: 1

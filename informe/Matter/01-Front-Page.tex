@@ -1,0 +1,79 @@
+% Front Page simplificada para ESPE - TechSolutions Pro
+\begin{titlepage}
+    \centering
+    
+    % Espaciado superior
+    \vspace*{2cm}
+    
+    % Encabezado institucional
+    {\Large\textbf{\GetUniversity}}
+    
+    \vspace{0.8cm}
+    {\large\textbf{\GetSchool}}
+    
+    \vspace{0.5cm}
+    {\large\textbf{\GetDepartment}}
+    
+    \vspace{4cm}
+    
+    % Título del proyecto
+    \begin{center}
+        \parbox{0.9\textwidth}{
+            \centering
+            {\huge\textbf{\GetTitle}}
+        }
+    \end{center}
+    
+    \vspace{2cm}
+    
+    % Subtítulo
+    \begin{center}
+        \parbox{0.8\textwidth}{
+            \centering
+            {\Large\GetSubtitle}
+        }
+    \end{center}
+    
+    \vspace{4cm}
+    
+    % Autores
+    {\large\textbf{Estudiantes:}}
+    
+    \vspace{1cm}
+    {\large\textbf{\GetFirstAuthor}}
+    
+    \ifdefined\GetSecondAuthor
+        \vspace{0.7cm}
+        {\large\textbf{\GetSecondAuthor}}
+    \fi
+    
+    \ifdefined\GetThirdAuthor
+        \vspace{0.7cm}
+        {\large\textbf{\GetThirdAuthor}}
+    \fi
+    
+    \vspace{3cm}
+    
+    % Información del supervisor
+    \begin{flushleft}
+        \large
+        \textbf{Supervisor:} \GetSupervisor \\
+        \vspace{0.3cm}
+        \textit{\GetSupervisorTitle}
+    \end{flushleft}
+    
+    \vfill
+    
+    % Información adicional
+    {\large\textbf{Materia:} \GetCourse} \\
+    \vspace{0.3cm}
+    {\large\textbf{Tipo de trabajo:} \GetThesisType} \\
+    \vspace{0.3cm}
+    {\large\textbf{Período académico:} \GetAcademicYear}
+    
+    \vspace{1cm}
+    
+    % Fecha y lugar
+    {\large\GetDate}
+    
+\end{titlepage}

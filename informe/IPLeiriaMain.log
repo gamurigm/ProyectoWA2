@@ -1,0 +1,2208 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.5.7)  13 JUL 2025 21:00
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**"c:/Users/gamur/OneDrive - UNIVERSIDAD DE LAS FUERZAS ARMADAS ESPE/ESPE V NIVEL SI2025/temp/WA/P2/ProyectoWA2/informe/IPLeiriaMain.tex"
+(c:/Users/gamur/OneDrive - UNIVERSIDAD DE LAS FUERZAS ARMADAS ESPE/ESPE V NIVEL SI2025/temp/WA/P2/ProyectoWA2/informe/IPLeiriaMain.tex
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-04>
+(IPLeiriaThesis.cls
+Document Class: IPLeiriaThesis 2023/12/12 IPLeiria Thesis Class
+(C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
+Package: expl3 2024-01-04 L3 programming layer (loader) 
+ (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
+File: l3backend-pdftex.def 2024-01-04 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count187
+\l__pdf_internal_box=\box51
+))
+
+Class IPLeiriaThesis Warning: Specified 'language' not available. Defaulting to 'english'.
+
+(C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/latex/base\report.cls
+Document Class: report 2023/05/17 v1.4n Standard LaTeX document class
+(C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/latex/base\size11.clo
+File: size11.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count188
+\c@chapter=\count189
+\c@section=\count190
+\c@subsection=\count191
+\c@subsubsection=\count192
+\c@paragraph=\count193
+\c@subparagraph=\count194
+\c@figure=\count195
+\c@table=\count196
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\bibindent=\dimen140
+) (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
+Package: babel 2024/01/07 v24.1 The Babel package
+\babel@savecnt=\count197
+\U@D=\dimen141
+\l@unhyphenated=\language79
+ (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def)
+\bbl@readstream=\read2
+\bbl@dirlevel=\count198
+
+*************************************
+* Local config file bblopts.cfg used
+*
+(C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopts.cfg
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of babel
+) (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/latex/babel-english\english.ldf
+Language: english 2017/06/06 v3.3r English support from the babel system
+Package babel Info: Hyphen rules for 'canadian' set to \l@english
+(babel)             (\language0). Reported on input line 102.
+Package babel Info: Hyphen rules for 'australian' set to \l@ukenglish
+(babel)             (\language73). Reported on input line 105.
+Package babel Info: Hyphen rules for 'newzealand' set to \l@ukenglish
+(babel)             (\language73). Reported on input line 108.
+)) (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/generic/babel/locale/en\babel-english.tex
+Package babel Info: Importing font and identification data for english
+(babel)             from babel-en.ini. Reported on input line 11.
+) (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
+Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
+) (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count199
+) (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+ (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+) (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+ (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+) (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+ (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen142
+\Gin@req@width=\dimen143
+) (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/latex/caption\subcaption.sty
+Package: subcaption 2023/07/28 v1.6b Sub-captions (AR)
+ (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption.sty
+Package: caption 2023/08/05 v3.6o Customizing captions (AR)
+ (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption3.sty
+Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
+\caption@tempdima=\dimen144
+\captionmargin=\dimen145
+\caption@leftmargin=\dimen146
+\caption@rightmargin=\dimen147
+\caption@width=\dimen148
+\caption@indent=\dimen149
+\caption@parindent=\dimen150
+\caption@hangindent=\dimen151
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count266
+\c@continuedfloat=\count267
+)
+Package caption Info: New subtype `subfigure' on input line 238.
+\c@subfigure=\count268
+Package caption Info: New subtype `subtable' on input line 238.
+\c@subtable=\count269
+) (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/latex/tools\tabularx.sty
+Package: tabularx 2023/07/08 v2.11c `tabularx' package (DPC)
+ (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty
+Package: array 2023/10/16 v2.5g Tabular extension package (FMi)
+\col@sep=\dimen152
+\ar@mcellbox=\box52
+\extrarowheight=\dimen153
+\NC@list=\toks18
+\extratabsurround=\skip50
+\backup@length=\skip51
+\ar@cellbox=\box53
+)
+\TX@col@width=\dimen154
+\TX@old@table=\dimen155
+\TX@old@col=\dimen156
+\TX@target=\dimen157
+\TX@delta=\dimen158
+\TX@cols=\count270
+\TX@ftn=\toks19
+) (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/latex/xltabular\xltabular.sty
+Package: xltabular 2025/02/28 v0.2i `xltabular' package (hv,RN)
+ (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/latex/ltablex\ltablex.sty
+Package: ltablex 2014/08/13 v1.1 Modified tabularx
+ (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/latex/tools\longtable.sty
+Package: longtable 2023-11-01 v4.19 Multi-page Table package (DPC)
+\LTleft=\skip52
+\LTright=\skip53
+\LTpre=\skip54
+\LTpost=\skip55
+\LTchunksize=\count271
+\LTcapwidth=\dimen159
+\LT@head=\box54
+\LT@firsthead=\box55
+\LT@foot=\box56
+\LT@lastfoot=\box57
+\LT@gbox=\box58
+\LT@cols=\count272
+\LT@rows=\count273
+\c@LT@tables=\count274
+\c@LT@chunks=\count275
+\LT@p@ftn=\toks20
+))) (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/latex/booktabs\booktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen160
+\lightrulewidth=\dimen161
+\cmidrulewidth=\dimen162
+\belowrulesep=\dimen163
+\belowbottomsep=\dimen164
+\aboverulesep=\dimen165
+\abovetopsep=\dimen166
+\cmidrulesep=\dimen167
+\cmidrulekern=\dimen168
+\defaultaddspace=\dimen169
+\@cmidla=\count276
+\@cmidlb=\count277
+\@aboverulesep=\dimen170
+\@belowrulesep=\dimen171
+\@thisruleclass=\count278
+\@lastruleclass=\count279
+\@thisrulewidth=\dimen172
+) (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/latex/multirow\multirow.sty
+Package: multirow 2024/11/12 v2.9 Span multiple rows of a table
+\multirow@colwidth=\skip56
+\multirow@cntb=\count280
+\multirow@dima=\skip57
+\bigstrutjot=\dimen173
+) (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/latex/enumitem\enumitem.sty
+Package: enumitem 2025/02/06 v3.11 Customized lists
+\labelindent=\skip58
+\enit@outerparindent=\dimen174
+\enit@toks=\toks21
+\enit@inbox=\box59
+\enit@count@id=\count281
+\enitdp@description=\count282
+) (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
+Package: amsmath 2023/05/13 v2.17o AMS math features
+\@mathmargin=\skip59
+
+For additional information on amsmath, use the `?' option.
+(C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
+Package: amstext 2021/08/26 v2.01 AMS text
+ (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks22
+\ex@=\dimen175
+)) (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen176
+) (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
+Package: amsopn 2022/04/08 v2.04 operator names
+)
+\inf@bad=\count283
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count284
+\leftroot@=\count285
+LaTeX Info: Redefining \overline on input line 399.
+LaTeX Info: Redefining \colon on input line 410.
+\classnum@=\count286
+\DOTSCASE@=\count287
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box60
+\strutbox@=\box61
+LaTeX Info: Redefining \big on input line 722.
+LaTeX Info: Redefining \Big on input line 723.
+LaTeX Info: Redefining \bigg on input line 724.
+LaTeX Info: Redefining \Bigg on input line 725.
+\big@size=\dimen177
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count288
+LaTeX Info: Redefining \bmod on input line 905.
+LaTeX Info: Redefining \pmod on input line 910.
+LaTeX Info: Redefining \smash on input line 940.
+LaTeX Info: Redefining \relbar on input line 970.
+LaTeX Info: Redefining \Relbar on input line 971.
+\c@MaxMatrixCols=\count289
+\dotsspace@=\muskip16
+\c@parentequation=\count290
+\dspbrk@lvl=\count291
+\tag@help=\toks23
+\row@=\count292
+\column@=\count293
+\maxfields@=\count294
+\andhelp@=\toks24
+\eqnshift@=\dimen178
+\alignsep@=\dimen179
+\tagshift@=\dimen180
+\tagwidth@=\dimen181
+\totwidth@=\dimen182
+\lineht@=\dimen183
+\@envbody=\toks25
+\multlinegap=\skip60
+\multlinetaggap=\skip61
+\mathdisplay@stack=\toks26
+LaTeX Info: Redefining \[ on input line 2953.
+LaTeX Info: Redefining \] on input line 2954.
+) (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+ (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)) (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
+Package: xcolor 2023/11/15 v3.01 LaTeX color extensions (UK)
+ (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 274.
+ (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1350.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1354.
+Package xcolor Info: Model `RGB' extended on input line 1366.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1368.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1370.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1371.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1372.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1373.
+) (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/latex/graphics\dvipsnam.def
+File: dvipsnam.def 2016/06/17 v3.0m Driver-dependent file (DPC,SPQR)
+) (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcolorbox.sty
+Package: tcolorbox 2024/01/10 version 6.2.0 text color boxes
+ (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgf.sty (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfrcs.sty (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil-common.tex
+\pgfutil@everybye=\toks27
+\pgfutil@tempdima=\dimen184
+\pgfutil@tempdimb=\dimen185
+) (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil-latex.def
+\pgfutil@abb=\box62
+) (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfrcs.code.tex (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/generic/pgf\pgf.revision.tex)
+Package: pgfrcs 2023-01-15 v3.1.10 (3.1.10)
+))
+Package: pgf 2023-01-15 v3.1.10 (3.1.10)
+ (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgfcore.sty (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/latex/pgf/systemlayer\pgfsys.sty (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsys.code.tex
+Package: pgfsys 2023-01-15 v3.1.10 (3.1.10)
+ (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks28
+\pgfkeys@temptoks=\toks29
+ (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeyslibraryfiltered.code.tex
+\pgfkeys@tmptoks=\toks30
+))
+\pgf@x=\dimen186
+\pgf@y=\dimen187
+\pgf@xa=\dimen188
+\pgf@ya=\dimen189
+\pgf@xb=\dimen190
+\pgf@yb=\dimen191
+\pgf@xc=\dimen192
+\pgf@yc=\dimen193
+\pgf@xd=\dimen194
+\pgf@yd=\dimen195
+\w@pgf@writea=\write3
+\r@pgf@reada=\read3
+\c@pgf@counta=\count295
+\c@pgf@countb=\count296
+\c@pgf@countc=\count297
+\c@pgf@countd=\count298
+\t@pgf@toka=\toks31
+\t@pgf@tokb=\toks32
+\t@pgf@tokc=\toks33
+\pgf@sys@id@count=\count299
+ (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgf.cfg
+File: pgf.cfg 2023-01-15 v3.1.10 (3.1.10)
+)
+Driver file for pgf: pgfsys-pdftex.def
+ (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsys-pdftex.def
+File: pgfsys-pdftex.def 2023-01-15 v3.1.10 (3.1.10)
+ (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsys-common-pdf.def
+File: pgfsys-common-pdf.def 2023-01-15 v3.1.10 (3.1.10)
+))) (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsyssoftpath.code.tex
+File: pgfsyssoftpath.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfsyssoftpath@smallbuffer@items=\count300
+\pgfsyssoftpath@bigbuffer@items=\count301
+) (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsysprotocol.code.tex
+File: pgfsysprotocol.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)) (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore.code.tex
+Package: pgfcore 2023-01-15 v3.1.10 (3.1.10)
+ (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code.tex (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathutil.code.tex) (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathparser.code.tex
+\pgfmath@dimen=\dimen196
+\pgfmath@count=\count302
+\pgfmath@box=\box63
+\pgfmath@toks=\toks34
+\pgfmath@stack@operand=\toks35
+\pgfmath@stack@operation=\toks36
+) (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.code.tex) (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.basic.code.tex) (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.trigonometric.code.tex) (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.random.code.tex) (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.comparison.code.tex) (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.base.code.tex) (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.round.code.tex) (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.misc.code.tex) (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.integerarithmetics.code.tex) (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathcalc.code.tex) (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count303
+)) (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfint.code.tex) (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepoints.code.tex
+File: pgfcorepoints.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@picminx=\dimen197
+\pgf@picmaxx=\dimen198
+\pgf@picminy=\dimen199
+\pgf@picmaxy=\dimen256
+\pgf@pathminx=\dimen257
+\pgf@pathmaxx=\dimen258
+\pgf@pathminy=\dimen259
+\pgf@pathmaxy=\dimen260
+\pgf@xx=\dimen261
+\pgf@xy=\dimen262
+\pgf@yx=\dimen263
+\pgf@yy=\dimen264
+\pgf@zx=\dimen265
+\pgf@zy=\dimen266
+) (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepathconstruct.code.tex
+File: pgfcorepathconstruct.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@path@lastx=\dimen267
+\pgf@path@lasty=\dimen268
+) (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepathusage.code.tex
+File: pgfcorepathusage.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@shorten@end@additional=\dimen269
+\pgf@shorten@start@additional=\dimen270
+) (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorescopes.code.tex
+File: pgfcorescopes.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfpic=\box64
+\pgf@hbox=\box65
+\pgf@layerbox@main=\box66
+\pgf@picture@serial@count=\count304
+) (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoregraphicstate.code.tex
+File: pgfcoregraphicstate.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgflinewidth=\dimen271
+) (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoretransformations.code.tex
+File: pgfcoretransformations.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@pt@x=\dimen272
+\pgf@pt@y=\dimen273
+\pgf@pt@temp=\dimen274
+) (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorequick.code.tex
+File: pgfcorequick.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreobjects.code.tex
+File: pgfcoreobjects.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepathprocessing.code.tex
+File: pgfcorepathprocessing.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorearrows.code.tex
+File: pgfcorearrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfarrowsep=\dimen275
+) (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreshade.code.tex
+File: pgfcoreshade.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@max=\dimen276
+\pgf@sys@shading@range@num=\count305
+\pgf@shadingcount=\count306
+) (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreimage.code.tex
+File: pgfcoreimage.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreexternal.code.tex
+File: pgfcoreexternal.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfexternal@startupbox=\box67
+) (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorelayers.code.tex
+File: pgfcorelayers.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoretransparency.code.tex
+File: pgfcoretransparency.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepatterns.code.tex
+File: pgfcorepatterns.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorerdf.code.tex
+File: pgfcorerdf.code.tex 2023-01-15 v3.1.10 (3.1.10)
+))) (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmoduleshapes.code.tex
+File: pgfmoduleshapes.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfnodeparttextbox=\box68
+) (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmoduleplot.code.tex
+File: pgfmoduleplot.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfcomp-version-0-65.sty
+Package: pgfcomp-version-0-65 2023-01-15 v3.1.10 (3.1.10)
+\pgf@nodesepstart=\dimen277
+\pgf@nodesepend=\dimen278
+) (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfcomp-version-1-18.sty
+Package: pgfcomp-version-1-18 2023-01-15 v3.1.10 (3.1.10)
+)) (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/latex/tools\verbatim.sty
+Package: verbatim 2023-11-06 v1.5v LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks37
+\verbatim@line=\toks38
+\verbatim@in@stream=\read4
+) (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/latex/environ\environ.sty
+Package: environ 2014/05/04 v0.3 A new way to define environments
+ (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/latex/trimspaces\trimspaces.sty
+Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
+))
+\tcb@titlebox=\box69
+\tcb@upperbox=\box70
+\tcb@lowerbox=\box71
+\tcb@phantombox=\box72
+\c@tcbbreakpart=\count307
+\c@tcblayer=\count308
+\c@tcolorbox@number=\count309
+\l__tcobox_tmpa_box=\box73
+\l__tcobox_tmpa_dim=\dimen279
+\tcb@temp=\box74
+\tcb@temp=\box75
+\tcb@temp=\box76
+\tcb@temp=\box77
+) (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/latex/varwidth\varwidth.sty
+Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
+\@vwid@box=\box78
+\sift@deathcycles=\count310
+\@vwid@loff=\dimen280
+\@vwid@roff=\dimen281
+) (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/latex/titlesec\titlesec.sty
+Package: titlesec 2025/01/04 v2.17 Sectioning titles
+\ttl@box=\box79
+\beforetitleunit=\skip62
+\aftertitleunit=\skip63
+\ttl@plus=\dimen282
+\ttl@minus=\dimen283
+\ttl@toksa=\toks39
+\titlewidth=\dimen284
+\titlewidthlast=\dimen285
+\titlewidthfirst=\dimen286
+) (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/latex/titling\titling.sty
+Package: titling 2009/09/04 v2.1d maketitle typesetting
+\thanksmarkwidth=\skip64
+\thanksmargin=\skip65
+\droptitle=\skip66
+) (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/latex/appendix\appendix.sty
+Package: appendix 2020/02/08 v1.2c extra appendix facilities
+\c@@pps=\count311
+\c@@ppsavesec=\count312
+\c@@ppsaveapp=\count313
+) (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
+Package: hyperref 2023-11-26 v7.01g Hypertext links for LaTeX
+ (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+) (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+) (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/latex/kvsetkeys\kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+) (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+) (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/generic/pdfescape\pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+ (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
+Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
+) (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)) (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/latex/hycolor\hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+) (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/latex/letltxmacro\letltxmacro.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+) (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/latex/auxhook\auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+) (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
+Package: nameref 2023-11-26 v2.56 Cross-referencing by name of section
+ (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+) (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestring\gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+ (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+))
+\c@section@level=\count314
+)
+\@linkdim=\dimen287
+\Hy@linkcounter=\count315
+\Hy@pagecounter=\count316
+ (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
+File: pd1enc.def 2023-11-26 v7.01g Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+) (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+\Hy@SavedSpaceFactor=\count317
+ (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def
+File: puenc.def 2023-11-26 v7.01g Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+)
+Package hyperref Info: Option `bookmarks' set `true' on input line 4064.
+Package hyperref Info: Option `pdfusetitle' set `true' on input line 4064.
+Package hyperref Info: Hyper figures OFF on input line 4181.
+Package hyperref Info: Link nesting OFF on input line 4186.
+Package hyperref Info: Hyper index ON on input line 4189.
+Package hyperref Info: Plain pages OFF on input line 4196.
+Package hyperref Info: Backreferencing OFF on input line 4201.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4448.
+\c@Hy@tempcnt=\count318
+ (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
+\Urlmuskip=\muskip17
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4786.
+\XeTeXLinkMargin=\dimen288
+ (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+ (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc\bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
+))
+\Fld@menulength=\count319
+\Field@Width=\dimen289
+\Fld@charsize=\dimen290
+Package hyperref Info: Hyper figures OFF on input line 6065.
+Package hyperref Info: Link nesting OFF on input line 6070.
+Package hyperref Info: Hyper index ON on input line 6073.
+Package hyperref Info: backreferencing OFF on input line 6080.
+Package hyperref Info: Link coloring OFF on input line 6085.
+Package hyperref Info: Link coloring with OCG OFF on input line 6090.
+Package hyperref Info: PDF/A mode OFF on input line 6095.
+ (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/latex/base\atbegshi-ltx.sty
+Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
+)
+\Hy@abspage=\count320
+\c@Item=\count321
+\c@Hfootnote=\count322
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+ (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.def
+File: hpdftex.def 2023-11-26 v7.01g Hyperref driver for pdfTeX
+ (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/latex/base\atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend package
+with kernel methods
+)
+\Fld@listcount=\count323
+\c@bookmark@seq@number=\count324
+ (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunfilecheck.sty
+Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
+ (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/generic/uniquecounter\uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 285.
+)
+\Hy@SectionHShift=\skip67
+) (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/latex/glossaries/base\glossaries.sty
+Package: glossaries 2025/04/14 v4.6 (NLCT)
+ (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/latex/xkeyval\xkeyval.sty
+Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
+ (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkeyval.tex (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkvutils.tex
+\XKV@toks=\toks40
+\XKV@tempa@toks=\toks41
+)
+\XKV@depth=\count325
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+)) (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/latex/mfirstuc\mfirstuc.sty
+Package: mfirstuc 2025/04/03 v2.09 (NLCT)
+\@glsmfirst=\toks42
+\@glsmrest=\toks43
+) (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/latex/xfor\xfor.sty
+Package: xfor 2009/02/05 v1.05 (NLCT)
+) (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/latex/tracklang\tracklang.sty
+Package: tracklang 2025/03/11 v1.6.6 (NLCT) Track Languages
+ (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/generic/tracklang\tracklang.tex)
+Package tracklang Info: Tracking dialect `english' (language `english') on input line 264.
+Package tracklang Info: Tracking dialect `english' (language `english') on input line 264.
+) (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/latex/translator\translator.sty
+Package: translator 2021-05-31 v1.12d Easy translation of strings in LaTeX
+) (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/latex/glossaries-english\glossaries-english.ldf
+File: glossaries-english.ldf 2014/11/23 v1.0
+) (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/latex/datatool\datatool-base.sty
+Package: datatool-base 2025/04/25 v3.4.1 (NLCT)
+ (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/latex/datatool\datatool-l3fp.def
+File: datatool-l3fp.def 2025/04/25 v3.4.1 (NLCT)
+)
+\@dtl@toks=\toks44
+\@dtl@tmpcount=\count326
+\dtl@tmplength=\skip68
+\l__datatool_measure_box=\box80
+\dtl@sortresult=\count327
+ (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/latex/datatool\datatool-utf8.ldf
+File: datatool-utf8.ldf 2025/04/25 v3.4.1 (NLCT)
+)
+\@dtl@datatype=\count328
+\l__datatool_tmpa_int=\count329
+\l__datatool_tmpb_int=\count330
+\l__datatool_tmpc_int=\count331
+\l__datatool_tmpd_int=\count332
+\l__datatool_count_int=\count333
+\l__datatool_tmp_datatype_int=\count334
+\l__datatool_tmpa_dim=\dimen291
+\l__datatool_tmpb_dim=\dimen292
+\c_datatool_unknown_int=\count335
+\l__datatool_year_int=\count336
+\l__datatool_month_int=\count337
+\l__datatool_day_int=\count338
+\l__datatool_hour_int=\count339
+\l__datatool_minute_int=\count340
+\l__datatool_second_int=\count341
+\l__datatool_tzhour_int=\count342
+\l__datatool_tzminute_int=\count343
+\l__datatool_julian_int=\count344
+\l__datatool_local_julian_int=\count345
+\l__datatool_prefix_int=\count346
+\l__datatool_suffix_int=\count347
+\@dtl@foreach@level=\count348
+
+
+Package tracklang Warning: No `datatool' support for dialect `english'  on input line 9908.
+
+\dtl@codeA=\count349
+\dtl@codeB=\count350
+)
+\gls@level=\count351
+\@gls@tmpb=\toks45
+\gls@tmplen=\skip69
+\l__glossaries_tmpa_dim=\dimen293
+\l__glossaries_tmpb_dim=\dimen294
+\glskeylisttok=\toks46
+\glslabeltok=\toks47
+\glsshorttok=\toks48
+\glslongtok=\toks49
+ (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/latex/glossaries/styles\glossary-hypernav.sty
+Package: glossary-hypernav 2025/04/14 v4.6 (NLCT)
+) (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/latex/glossaries/styles\glossary-list.sty
+Package: glossary-list 2025/04/14 v4.6 (NLCT)
+\glslistdottedwidth=\skip70
+) (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/latex/glossaries/styles\glossary-long.sty
+Package: glossary-long 2025/04/14 v4.6 (NLCT)
+\glsdescwidth=\skip71
+\glspagelistwidth=\skip72
+) (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/latex/glossaries/styles\glossary-super.sty
+Package: glossary-super 2025/04/14 v4.6 (NLCT)
+ (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/latex/supertabular\supertabular.sty
+Package: supertabular 2024/07/20 v4.2c the supertabular environment
+\c@tracingst=\count352
+\ST@wd=\dimen295
+\ST@rightskip=\skip73
+\ST@leftskip=\skip74
+\ST@parfillskip=\skip75
+\ST@pageleft=\dimen296
+\ST@headht=\dimen297
+\ST@tailht=\dimen298
+\ST@pagesofar=\dimen299
+\ST@pboxht=\dimen300
+\ST@rowht=\dimen301
+\ST@prevht=\dimen302
+\ST@toadd=\dimen303
+\ST@dimen=\dimen304
+\ST@pbox=\box81
+)) (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/latex/glossaries/styles\glossary-tree.sty
+Package: glossary-tree 2025/04/14 v4.6 (NLCT)
+\l__glossaries_tree_max_known_level_int=\count353
+\l__glossaries_tree_offset_dim=\dimen305
+\l__glossaries_tree_namewidth_dim=\dimen306
+\l__glossaries_tree_symbolwidth_dim=\dimen307
+\l__glossaries_tree_prenamesym_width_dim=\dimen308
+\l__glossaries_tree_presubnamesym_width_dim=\dimen309
+\l__glossaries_tree_namewidth_padding_dim=\dimen310
+\l__glossaries_tree_symbolwidth_padding_dim=\dimen311
+\l__glossaries_tree_namesymbolwidth_dim=\dimen312
+\l__glossaries_tree_namesymbolwidth_padding_dim=\dimen313
+\l__glossaries_tree_level_int=\count354
+\glstreeindent=\skip76
+)) (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/latex/datetime2\datetime2.sty
+Package: datetime2 2021/03/21 v1.5.7 (NLCT) date and time formats
+ (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/latex/datetime2-english\datetime2-english.ldf
+File: datetime2-english.ldf 2019/10/21 v1.05 (NLCT)
+ (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/latex/datetime2-english\datetime2-english-base.ldf
+File: datetime2-english-base.ldf 2019/10/21 v1.05 (NLCT)
+)) (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/latex/datetime2\datetime2-calc.sty
+Package: datetime2-calc 2021/03/21 v1.5.7 (NLCT)
+ (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfkeys.sty (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys.code.tex)) (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfcalendar.sty (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfcalendar.code.tex
+File: pgfcalendar.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfcalendarcurrentjulian=\count355
+\pgf@cal@easter@Y=\count356
+\pgf@cal@easter@G=\count357
+\pgf@cal@easter@C=\count358
+\pgf@cal@easter@X=\count359
+\pgf@cal@easter@Z=\count360
+\pgf@cal@easter@D=\count361
+\pgf@cal@easter@E=\count362
+\pgf@cal@easter@N=\count363
+\pgf@cal@easter@M=\count364
+\pgf@cal@easter@julianday=\count365
+))
+\@dtm@julianday=\count366
+)) (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xparse\xparse.sty
+Package: xparse 2023-10-10 L3 Experimental document command parser
+) (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\typearea.sty
+Package: typearea 2025/06/04 v3.45 KOMA-Script package (type area)
+ (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrkbase.sty
+Package: scrkbase 2025/06/04 v3.45 KOMA-Script package (KOMA-Script-dependent basics and keyval usage)
+ (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrbase.sty
+Package: scrbase 2025/06/04 v3.45 KOMA-Script package (KOMA-Script-independent basics and keyval usage)
+ (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrlfile.sty
+Package: scrlfile 2025/06/04 v3.45 KOMA-Script package (file load hooks)
+ (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrlfile-hook.sty
+Package: scrlfile-hook 2025/06/04 v3.45 KOMA-Script package (using LaTeX hooks)
+ (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrlogo.sty
+Package: scrlogo 2025/06/04 v3.45 KOMA-Script package (logo)
+)))
+Applying: [2021/05/01] Usage of raw or classic option list on input line 254.
+Already applied: [0000/00/00] Usage of raw or classic option list on input line 370.
+))
+\ta@bcor=\skip77
+\ta@div=\count367
+\ta@hblk=\skip78
+\ta@vblk=\skip79
+\ta@temp=\skip80
+\footheight=\skip81
+Package typearea Info: These are the values describing the layout:
+(typearea)             DIV  = 10
+(typearea)             BCOR = 0.0pt
+(typearea)             \paperwidth      = 597.50793pt
+(typearea)              \textwidth      = 418.25555pt
+(typearea)              DIV departure   = -6%
+(typearea)              \evensidemargin = 47.2316pt
+(typearea)              \oddsidemargin  = -12.5192pt
+(typearea)             \paperheight     = 845.04694pt
+(typearea)              \textheight     = 595.80026pt
+(typearea)              \topmargin      = -25.16531pt
+(typearea)              \headheight     = 17.0pt
+(typearea)              \headsep        = 20.40001pt
+(typearea)              \topskip        = 11.0pt
+(typearea)              \footskip       = 47.6pt
+(typearea)              \baselineskip   = 13.6pt
+(typearea)              on input line 1804.
+) (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/latex/eso-pic\eso-pic.sty
+Package: eso-pic 2023/05/03 v3.0c eso-pic (RN)
+\ESO@tempdima=\dimen314
+\ESO@tempdimb=\dimen315
+) (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/latex/setspace\setspace.sty
+Package: setspace 2022/12/04 v6.7b set line spacing
+) (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/latex/minted\minted.sty
+Package: minted 2025/05/14 v3.7.0 Yet another Pygments shim for LaTeX
+ (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/generic/catchfile\catchfile.sty
+Package: catchfile 2019/12/09 v1.8 Catch the contents of a file (HO)
+ (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/generic/etexcmds\etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)) (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/latex/fvextra\fvextra.sty
+Package: fvextra 2025/05/29 v1.13.2 fvextra - extensions and patches for fancyvrb
+ (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/latex/fancyvrb\fancyvrb.sty
+Package: fancyvrb 2024/01/20 4.5c verbatim text (tvz,hv)
+\FV@CodeLineNo=\count368
+\FV@InFile=\read5
+\FV@TabBox=\box82
+\c@FancyVerbLine=\count369
+\FV@StepNumber=\count370
+\FV@OutFile=\write4
+) (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/latex/upquote\upquote.sty
+Package: upquote 2012/04/19 v1.3 upright-quote and grave-accent glyphs in verbatim
+) (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/latex/lineno\lineno.sty
+Package: lineno 2025/05/13 line numbers on paragraphs v5.5
+\linenopenalty=\count371
+\output=\toks50
+\linenoprevgraf=\count372
+\linenumbersep=\dimen316
+\linenumberwidth=\dimen317
+\c@linenumber=\count373
+\c@pagewiselinenumber=\count374
+\c@LN@truepage=\count375
+\c@internallinenumber=\count376
+\c@internallinenumbers=\count377
+\quotelinenumbersep=\dimen318
+\bframerule=\dimen319
+\bframesep=\dimen320
+\bframebox=\box83
+\@LN@amsmath@ams@eqpen=\count378
+)
+\c@FancyVerbWriteLine=\count379
+\c@FancyVerbBufferLine=\count380
+\c@FV@TrueTabGroupLevel=\count381
+\c@FV@TrueTabCounter=\count382
+\FV@TabBox@Group=\box84
+\FV@bgcolorstructbox=\box85
+\FV@TmpLength=\skip82
+\c@FV@HighlightLinesStart=\count383
+\c@FV@HighlightLinesStop=\count384
+\FV@LoopCount=\count385
+\FV@NCharsBox=\box86
+\FV@BreakIndent=\dimen321
+\FV@BreakIndentNChars=\count386
+\FV@BreakSymbolSepLeft=\dimen322
+\FV@BreakSymbolSepLeftNChars=\count387
+\FV@BreakSymbolSepRight=\dimen323
+\FV@BreakSymbolSepRightNChars=\count388
+\FV@BreakSymbolIndentLeft=\dimen324
+\FV@BreakSymbolIndentLeftNChars=\count389
+\FV@BreakSymbolIndentRight=\dimen325
+\FV@BreakSymbolIndentRightNChars=\count390
+\c@FancyVerbLineBreakLast=\count391
+\FV@LineBox=\box87
+\FV@LineIndentBox=\box88
+\c@FV@BreakBufferDepth=\count392
+\FV@LineWidth=\dimen326
+) (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/latex/latex2pydata\latex2pydata.sty
+Package: latex2pydata 2025/03/26 v0.6.0 latex2pydata - write data to file in Python literal format
+) (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/latex/pgfopts\pgfopts.sty
+Package: pgfopts 2014/07/10 v2.1a LaTeX package options with pgfkeys
+\pgfopts@list@add@a@toks=\toks51
+\pgfopts@list@add@b@toks=\toks52
+) (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/latex/tools\shellesc.sty
+Package: shellesc 2023/07/08 v1.0d unified shell escape interface for LaTeX
+Package shellesc Info: Restricted shell escape enabled on input line 77.
+) (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/latex/newfloat\newfloat.sty
+Package: newfloat 2023/10/01 v1.2 Defining new floating environments (AR)
+Package newfloat Info: Unsupported document class, or \@chapter 
+(newfloat)             was already redefined by another package.
+Package newfloat Info: \@chapter = macro:->\def \Hy@next {\Hy@MakeCurrentHrefAuto {\Hy@chapapp *}\Hy@raisedlink {\hyper@anchorstart {\@currentHref }\hyper@anchorend }}\ifnum \c@secnumdepth >\m@ne \@ifundefined {if@mainmatter}\iftrue {\csname if@mainmatter\endcsname }\let \Hy@next \relax \fi \fi \Hy@next \Hy@org@chapter .
+Package newfloat Info: \Hy@org@chapter = macro:[#1]#2->\NR@gettitle {#1}\NR@chapter [{#1}]{#2}.
+Package newfloat Info: \algocf@original@chapter = undefined.
+)
+\c@minted@FancyVerbLineTemp=\count393
+Package newfloat Info: New float `listing' with options `fileext=lol,placement=tbp' on input line 1939.
+\c@listing=\count394
+\newfloat@ftype=\count395
+Package newfloat Info: float type `listing'=8 on input line 1939.
+Package caption Info: New subtype `sublisting' on input line 1939.
+\c@sublisting=\count396
+) (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/latex/silence\silence.sty
+Package: silence 2012/07/02 v1.5b Selective filtering of warnings and error messages
+\sl@Save=\count397
+\sl@StateNumber=\count398
+\sl@MessageCount=\count399
+\sl@Casualties=\count400
+\sl@Filter=\toks53
+\sl@Message=\toks54
+\sl@UnexpandedMessage=\toks55
+\sl@Mess@ge=\toks56
+\sl@WarningCount=\count401
+\sl@WarningNumber=\count402
+\sl@WarningCasualties=\count403
+\sl@TempBOW=\toks57
+\sl@BankOfWarnings=\toks58
+LaTeX Info: Redefining \GenericWarning on input line 433.
+\sl@ErrorCount=\count404
+\sl@ErrorNumber=\count405
+\sl@ErrorCasualties=\count406
+\sl@TempBOE=\toks59
+\sl@BankOfErrors=\toks60
+LaTeX Info: Redefining \GenericError on input line 601.
+) (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome5\fontawesome5.sty
+Package: fontawesome5 2022/05/02 v5.15.4 Font Awesome 5
+ (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/l3keys2e\l3keys2e.sty
+Package: l3keys2e 2023-10-10 LaTeX2e option processing using LaTeX3 keys
+) (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome5\fontawesome5-generic-helper.sty
+Package: fontawesome5-generic-helper 2022/05/02 v5.15.4 non-uTeX helper for fontawesome5
+ (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome5\fontawesome5-mapping.def))) (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/latex/tools\calc.sty
+Package: calc 2023/07/08 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count407
+\calc@Bcount=\count408
+\calc@Adimen=\dimen327
+\calc@Bdimen=\dimen328
+\calc@Askip=\skip83
+\calc@Bskip=\skip84
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count409
+\calc@Cskip=\skip85
+) (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/generic/soul\soul.sty
+Package: soul 2023-06-14 v3.1 Permit use of UTF-8 characters in soul (HO)
+ (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/generic/soul\soul-ori.sty
+Package: soul-ori 2023-06-14 v3.1 letterspacing/underlining (mf)
+\SOUL@word=\toks61
+\SOUL@lasttoken=\toks62
+\SOUL@syllable=\toks63
+\SOUL@cmds=\toks64
+\SOUL@buffer=\toks65
+\SOUL@token=\toks66
+\SOUL@syllgoal=\dimen329
+\SOUL@syllwidth=\dimen330
+\SOUL@charkern=\dimen331
+\SOUL@hyphkern=\dimen332
+\SOUL@dimen=\dimen333
+\SOUL@dimeni=\dimen334
+\SOUL@minus=\count410
+\SOUL@comma=\count411
+\SOUL@apo=\count412
+\SOUL@grave=\count413
+\SOUL@spaceskip=\skip86
+\SOUL@ttwidth=\dimen335
+\SOUL@uldp=\dimen336
+\SOUL@ulht=\dimen337
+)) (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/latex/pgf/frontendlayer\tikz.sty (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgffor.sty (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/latex/pgf/math\pgfmath.sty (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code.tex)) (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgffor.code.tex
+Package: pgffor 2023-01-15 v3.1.10 (3.1.10)
+\pgffor@iter=\dimen338
+\pgffor@skip=\dimen339
+\pgffor@stack=\toks67
+\pgffor@toks=\toks68
+)) (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz\tikz.code.tex
+Package: tikz 2023-01-15 v3.1.10 (3.1.10)
+ (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibraryplothandlers.code.tex
+File: pgflibraryplothandlers.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@plot@mark@count=\count414
+\pgfplotmarksize=\dimen340
+)
+\tikz@lastx=\dimen341
+\tikz@lasty=\dimen342
+\tikz@lastxsaved=\dimen343
+\tikz@lastysaved=\dimen344
+\tikz@lastmovetox=\dimen345
+\tikz@lastmovetoy=\dimen346
+\tikzleveldistance=\dimen347
+\tikzsiblingdistance=\dimen348
+\tikz@figbox=\box89
+\tikz@figbox@bg=\box90
+\tikz@tempbox=\box91
+\tikz@tempbox@bg=\box92
+\tikztreelevel=\count415
+\tikznumberofchildren=\count416
+\tikznumberofcurrentchild=\count417
+\tikz@fig@count=\count418
+ (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodulematrix.code.tex
+File: pgfmodulematrix.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfmatrixcurrentrow=\count419
+\pgfmatrixcurrentcolumn=\count420
+\pgf@matrix@numberofcolumns=\count421
+)
+\tikz@expandcount=\count422
+ (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2023-01-15 v3.1.10 (3.1.10)
+))) (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/latex/pst-vectorian\psvectorian.sty (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/latex/pstricks\pstricks.sty
+Package: pstricks 2024/02/02 v0.75 LaTeX wrapper for `PSTricks' (RN,HV)
+ (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\pst-xkey.tex
+File: pst-xkey.tex 2005/11/25 v1.6 PSTricks specialization of xkeyval (HA)
+) (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/generic/pstricks\pstricks.tex (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/generic/pstricks\pst-fp.tex `pst-fp' v0.06, 2020/11/20 (hv)
+\pstFP@xs=\count423
+\pstFP@xia=\count424
+\pstFP@xib=\count425
+\pstFP@xfa=\count426
+\pstFP@xfb=\count427
+\pstFP@rega=\count428
+\pstFP@regb=\count429
+\pstFP@regs=\count430
+\pstFP@times=\count431
+)
+\psLoopIndex=\count432
+
+`PSTricks' v3.22  <2025/06/11> (tvz,hv)
+\pst@dima=\dimen349
+\pst@dimb=\dimen350
+\pst@dimc=\dimen351
+\pst@dimd=\dimen352
+\pst@dimg=\dimen353
+\pst@dimh=\dimen354
+\pst@dimm=\dimen355
+\pst@dimn=\dimen356
+\pst@dimo=\dimen357
+\pst@dimp=\dimen358
+\pst@hbox=\box93
+\pst@ibox=\box94
+\pst@boxg=\box95
+\pst@cnta=\count433
+\pst@cntb=\count434
+\pst@cntc=\count435
+\pst@cntd=\count436
+\pst@cntg=\count437
+\pst@cnth=\count438
+\pst@cntm=\count439
+\pst@cntn=\count440
+\pst@cnto=\count441
+\pst@cntp=\count442
+\@zero=\count443
+\pst@toks=\toks69
+--- We are running latex or xelatex ---
+(C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/generic/pstricks\pstricks.con) (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/generic/pstricks\pstricks-color.tex)
+\psunit=\dimen359
+\psxunit=\dimen360
+\psyunit=\dimen361
+\pst@C@@rType=\count444
+\pslinewidth=\dimen362
+\psk@startLW=\dimen363
+\psk@endLW=\dimen364
+ (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/generic/pstricks\pstricks-arrows.tex
+\pshooklength=\dimen365
+\pshookwidth=\dimen366
+)
+\pst@customdefs=\toks70
+ (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/generic/pstricks\pstricks-dots.tex)
+\pslinearc=\dimen367
+\pst@symbolStep=\dimen368
+\pst@symbolWidth=\dimen369
+\pst@symbolLinewidth=\dimen370
+ (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/generic/pstricks\pst-code-grid.tex) (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/generic/pstricks\pst-code-box.tex
+\everypsbox=\toks71
+\psframesep=\dimen371
+) (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/generic/pstricks\pst-code-arc.tex) (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/generic/pstricks\pst-code-circle_ellipse.tex) (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/generic/pstricks\pst-code-ref_rot.tex) (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/generic/pstricks\pst-code-put.tex
+\pslabelsep=\dimen372
+) (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/generic/pstricks\pst-code-pspicture.tex
+\sh@wgridXunit=\dimen373
+\sh@wgridYunit=\dimen374
+\pst@shift=\dimen375
+\ps@imagectr=\count445
+) (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/generic/pstricks\pstricks.con))
+File: pstricks.tex 2025/06/11 v3.22 `PSTricks' (tvz,hv)
+ (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/generic/pstricks\pst-fp.tex `pst-fp' v0.06, 2020/11/20 (hv))
+File: pst-fp.tex 2020/11/20 v0.06 `PST-fp' (hv)
+)
+Package: psvectorian 2012/12/12 v0.4 vector ornaments
+) (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/latex/blindtext\blindtext.sty
+Package: blindtext 2012/01/06 V2.0 blindtext-Package
+ (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/latex/tools\xspace.sty
+Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
+)
+\c@blindtext=\count446
+\c@Blindtext=\count447
+\c@blind@countparstart=\count448
+\blind@countxx=\count449
+\blindtext@numBlindtext=\count450
+\blind@countyy=\count451
+\c@blindlist=\count452
+\c@blindlistlevel=\count453
+\c@blindlist@level=\count454
+\blind@listitem=\count455
+\c@blind@listcount=\count456
+\c@blind@levelcount=\count457
+\blind@mathformula=\count458
+\blind@Mathformula=\count459
+\c@blind@randomcount=\count460
+\c@blind@randommax=\count461
+\c@blind@pangramcount=\count462
+\c@blind@pangrammax=\count463
+) (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbraster.code.tex
+Library (tcolorbox): 'tcbraster.code.tex' version '6.2.0'
+\c@tcbrastercolumn=\count464
+\c@tcbrasterrow=\count465
+\c@tcbrasternum=\count466
+\c@tcbraster=\count467
+) (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbskins.code.tex
+Library (tcolorbox): 'tcbskins.code.tex' version '6.2.0'
+(C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/latex/tikzfill\tikzfill.image.sty
+Package: tikzfill.image 2023/08/08 v1.0.1 Image filling library for TikZ
+ (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/latex/tikzfill\tikzfill-common.sty
+Package: tikzfill-common 2023/08/08 v1.0.1 Auxiliary code for tikzfill
+) (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/latex/tikzfill\tikzlibraryfill.image.code.tex
+File: tikzlibraryfill.image.code.tex 2023/08/08 v1.0.1 Image filling library
+\l__tikzfill_img_box=\box96
+)) (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbskinsjigsaw.code.tex
+Library (tcolorbox): 'tcbskinsjigsaw.code.tex' version '6.2.0'
+)) (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbbreakable.code.tex
+Library (tcolorbox): 'tcbbreakable.code.tex' version '6.2.0'
+(C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/latex/pdfcol\pdfcol.sty
+Package: pdfcol 2022-09-21 v1.7 Handle new color stacks for pdfTeX (HO)
+)
+Package pdfcol Info: New color stack `tcb@breakable' = 1 on input line 23.
+\tcb@testbox=\box97
+\tcb@totalupperbox=\box98
+\tcb@totallowerbox=\box99
+) (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbhooks.code.tex
+Library (tcolorbox): 'tcbhooks.code.tex' version '6.2.0'
+) (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbtheorems.code.tex
+Library (tcolorbox): 'tcbtheorems.code.tex' version '6.2.0'
+) (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbfitting.code.tex
+Library (tcolorbox): 'tcbfitting.code.tex' version '6.2.0'
+\tcbfitdim=\dimen376
+\tcb@lowerfitdim=\dimen377
+\tcb@upperfitdim=\dimen378
+\tcb@cur@hbadness=\count468
+) (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcblistingsutf8.code.tex
+Library (tcolorbox): 'tcblistingsutf8.code.tex' version '6.2.0'
+(C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcblistings.code.tex
+Library (tcolorbox): 'tcblistings.code.tex' version '6.2.0'
+(C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.sty
+\lst@mode=\count469
+\lst@gtempboxa=\box100
+\lst@token=\toks72
+\lst@length=\count470
+\lst@currlwidth=\dimen379
+\lst@column=\count471
+\lst@pos=\count472
+\lst@lostspace=\dimen380
+\lst@width=\dimen381
+\lst@newlines=\count473
+\lst@lineno=\count474
+\lst@maxwidth=\dimen382
+ (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstmisc.sty
+File: lstmisc.sty 2023/02/27 1.9 (Carsten Heinz)
+\c@lstnumber=\count475
+\lst@skipnumbers=\count476
+\lst@framebox=\box101
+) (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.cfg
+File: listings.cfg 2023/02/27 1.9 listings configuration
+))
+Package: listings 2023/02/27 1.9 (Carsten Heinz)
+ (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcblistingscore.code.tex
+Library (tcolorbox): 'tcblistingscore.code.tex' version '6.2.0'
+(C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbprocessing.code.tex
+Library (tcolorbox): 'tcbprocessing.code.tex' version '6.2.0'
+)
+\c@tcblisting=\count477
+)) (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/latex/listingsutf8\listingsutf8.sty
+Package: listingsutf8 2019-12-10 v1.5 Allow UTF-8 in listings input (HO)
+ (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/generic/stringenc\stringenc.sty
+Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO)
+))) (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbexternal.code.tex
+Library (tcolorbox): 'tcbexternal.code.tex' version '6.2.0'
+) (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbmagazine.code.tex
+Library (tcolorbox): 'tcbmagazine.code.tex' version '6.2.0'
+) (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbvignette.code.tex
+Library (tcolorbox): 'tcbvignette.code.tex' version '6.2.0'
+(C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibraryfadings.code.tex
+File: tikzlibraryfadings.code.tex 2023-01-15 v3.1.10 (3.1.10)
+ (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibraryfadings.code.tex
+File: pgflibraryfadings.code.tex 2023-01-15 v3.1.10 (3.1.10)
+))) (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbposter.code.tex
+Library (tcolorbox): 'tcbposter.code.tex' version '6.2.0'
+) (Configurations/00-Fonts.sty (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+) (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/latex/newpx\newpxmath.sty
+Package: newpxmath 2025/06/07 v1.542 LaTeX math support for newpx (Michael Sharpe)
+ `newpxmath' v1.542, 2025/06/07 Math macros based on pxfonts (msharpe) (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/generic/binhex\binhex.tex) (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/latex/oberdiek\centernot.sty
+Package: centernot 2016/05/16 v1.4 Centers the not symbol horizontally (HO)
+)
+\px@tA=\toks73
+\px@tB=\toks74
+\px@su=\read6
+\px@Isdigit=\count478
+
+amsthm NOT loaded
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 222.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/cmr/m/n on input line 222.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/cmr/m/n on input line 222.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/m/n --> OT1/cmr/b/n on input line 223.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 226.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> T1/cmss/m/n on input line 226.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> T1/cmss/m/n on input line 226.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 227.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/cmr/m/it on input line 227.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/cmr/m/it on input line 227.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 228.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> T1/cmtt/m/n on input line 228.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> T1/cmtt/m/n on input line 228.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 230.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/cmr/b/n on input line 230.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/cmr/b/n on input line 230.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/m/it --> OT1/cmr/b/it on input line 231.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  T1/cmss/m/n --> T1/cmss/b/n on input line 233.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  T1/cmtt/m/n --> T1/cmtt/b/n on input line 234.
+LaTeX Font Info:    Redeclaring symbol font `letters' on input line 245.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/npxmi/m/it on input line 245.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/npxmi/m/it on input line 245.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/npxmi/m/it --> OML/npxmi/b/it on input line 246.
+\symlettersA=\mathgroup6
+LaTeX Font Info:    Overwriting symbol font `lettersA' in version `bold'
+(Font)                  U/npxmia/m/it --> U/npxmia/b/it on input line 264.
+LaTeX Font Info:    Redeclaring math alphabet \mathfrak on input line 266.
+Now handling font encoding LMS ...
+... no UTF-8 mapping file for font encoding LMS
+LaTeX Font Info:    Redeclaring symbol font `symbols' on input line 274.
+LaTeX Font Info:    Encoding `OMS' has changed to `LMS' for symbol font
+(Font)              `symbols' in the math version `normal' on input line 274.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> LMS/npxsy/m/n on input line 274.
+LaTeX Font Info:    Encoding `OMS' has changed to `LMS' for symbol font
+(Font)              `symbols' in the math version `bold' on input line 274.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> LMS/npxsy/m/n on input line 274.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  LMS/npxsy/m/n --> LMS/npxsy/b/n on input line 275.
+\symAMSm=\mathgroup7
+LaTeX Font Info:    Overwriting symbol font `AMSm' in version `bold'
+(Font)                  U/npxsym/m/n --> U/npxsym/b/n on input line 295.
+\symsymbolsC=\mathgroup8
+LaTeX Font Info:    Overwriting symbol font `symbolsC' in version `bold'
+(Font)                  U/npxsyc/m/n --> U/npxsyc/b/n on input line 317.
+Now handling font encoding LMX ...
+... no UTF-8 mapping file for font encoding LMX
+LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 337.
+LaTeX Font Info:    Encoding `OMX' has changed to `LMX' for symbol font
+(Font)              `largesymbols' in the math version `normal' on input line 337.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> LMX/npxexx/m/n on input line 337.
+LaTeX Font Info:    Encoding `OMX' has changed to `LMX' for symbol font
+(Font)              `largesymbols' in the math version `bold' on input line 337.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> LMX/npxexx/m/n on input line 337.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  LMX/npxexx/m/n --> LMX/npxexx/b/n on input line 338.
+\symlargesymbolsPXA=\mathgroup9
+LaTeX Font Info:    Overwriting symbol font `largesymbolsPXA' in version `bold'
+(Font)                  U/npxexa/m/n --> U/npxexa/b/n on input line 345.
+\px@cntz=\count479
+\px@IsAlNum=\count480
+\px@sbptoks=\toks75
+LaTeX Font Info:    Redeclaring math delimiter \lfloor on input line 500.
+LaTeX Font Info:    Redeclaring math delimiter \rfloor on input line 501.
+LaTeX Font Info:    Redeclaring math delimiter \lceil on input line 502.
+LaTeX Font Info:    Redeclaring math delimiter \rceil on input line 503.
+LaTeX Font Info:    Redeclaring math delimiter \lbrace on input line 508.
+LaTeX Font Info:    Redeclaring math delimiter \rbrace on input line 509.
+LaTeX Font Info:    Redeclaring math delimiter \langle on input line 511.
+LaTeX Font Info:    Redeclaring math delimiter \rangle on input line 513.
+LaTeX Font Info:    Redeclaring math delimiter \arrowvert on input line 517.
+LaTeX Font Info:    Redeclaring math delimiter \vert on input line 518.
+LaTeX Font Info:    Redeclaring math symbol \parallel on input line 519.
+LaTeX Font Info:    Redeclaring math delimiter \Arrowvert on input line 520.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 560.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 561.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 562.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 563.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 564.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 565.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 566.
+LaTeX Font Info:    Redeclaring math accent \check on input line 567.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 571.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 572.
+LaTeX Font Info:    Redeclaring math accent \vec on input line 1617.
+LaTeX Info: Redefining \Bbbk on input line 2194.
+LaTeX Info: Redefining \not on input line 2534.
+) (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/latex/csquotes\csquotes.sty
+Package: csquotes 2024-04-04 v5.2o context-sensitive quotations (JAW)
+\csq@reset=\count481
+\csq@gtype=\count482
+\csq@glevel=\count483
+\csq@qlevel=\count484
+\csq@maxlvl=\count485
+\csq@tshold=\count486
+\csq@ltx@everypar=\toks76
+ (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/latex/csquotes\csquotes.def
+File: csquotes.def 2024-04-04 v5.2o csquotes generic definitions (JAW)
+)
+Package csquotes Info: Trying to load configuration file 'csquotes.cfg'...
+Package csquotes Info: ... configuration file loaded successfully.
+ (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/latex/csquotes\csquotes.cfg
+File: csquotes.cfg 
+)) (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/latex/tex-gyre\tgpagella.sty
+Package: tgpagella 2009/09/27 v1.2 TeX Gyre Pagella as default roman family
+)) (Configurations/01-Colors.sty) (Configurations/02-Margins.sty (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+ (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+)
+\Gm@cnth=\count487
+\Gm@cntv=\count488
+\c@Gm@tempcnt=\count489
+\Gm@bindingoffset=\dimen383
+\Gm@wd@mp=\dimen384
+\Gm@odd@mp=\dimen385
+\Gm@even@mp=\dimen386
+\Gm@layoutwidth=\dimen387
+\Gm@layoutheight=\dimen388
+\Gm@layouthoffset=\dimen389
+\Gm@layoutvoffset=\dimen390
+\Gm@dimlist=\toks77
+ (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg))) (Configurations/03-References.sty (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.sty
+Package: biblatex 2023/03/05 v3.19 programmable bibliographies (PK/MW)
+ (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/latex/logreq\logreq.sty
+Package: logreq 2010/08/04 v1.0 xml request logger
+\lrq@indent=\count490
+ (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/latex/logreq\logreq.def
+File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
+))
+\c@tabx@nest=\count491
+\c@listtotal=\count492
+\c@listcount=\count493
+\c@liststart=\count494
+\c@liststop=\count495
+\c@citecount=\count496
+\c@citetotal=\count497
+\c@multicitecount=\count498
+\c@multicitetotal=\count499
+\c@instcount=\count500
+\c@maxnames=\count501
+\c@minnames=\count502
+\c@maxitems=\count503
+\c@minitems=\count504
+\c@citecounter=\count505
+\c@maxcitecounter=\count506
+\c@savedcitecounter=\count507
+\c@uniquelist=\count508
+\c@uniquename=\count509
+\c@refsection=\count510
+\c@refsegment=\count511
+\c@maxextratitle=\count512
+\c@maxextratitleyear=\count513
+\c@maxextraname=\count514
+\c@maxextradate=\count515
+\c@maxextraalpha=\count516
+\c@abbrvpenalty=\count517
+\c@highnamepenalty=\count518
+\c@lownamepenalty=\count519
+\c@maxparens=\count520
+\c@parenlevel=\count521
+\blx@tempcnta=\count522
+\blx@tempcntb=\count523
+\blx@tempcntc=\count524
+\c@blx@maxsection=\count525
+\blx@maxsegment@0=\count526
+\blx@notetype=\count527
+\blx@parenlevel@text=\count528
+\blx@parenlevel@foot=\count529
+\blx@sectionciteorder@0=\count530
+\blx@sectionciteorderinternal@0=\count531
+\blx@entrysetcounter=\count532
+\blx@biblioinstance=\count533
+\labelnumberwidth=\skip87
+\labelalphawidth=\skip88
+\biblabelsep=\skip89
+\bibitemsep=\skip90
+\bibnamesep=\skip91
+\bibinitsep=\skip92
+\bibparsep=\skip93
+\bibhang=\skip94
+\blx@bcfin=\read7
+\blx@bcfout=\write5
+\blx@langwohyphens=\language80
+\c@mincomprange=\count534
+\c@maxcomprange=\count535
+\c@mincompwidth=\count536
+Package biblatex Info: Trying to load biblatex default data model...
+Package biblatex Info: ... file 'blx-dm.def' found.
+ (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-dm.def
+File: blx-dm.def 2023/03/05 v3.19 biblatex localization (PK/MW)
+)
+Package biblatex Info: Trying to load biblatex citestyle data model...
+Package biblatex Info: ... file 'authoryear.dbx' not found.
+Package biblatex Info: Trying to load biblatex custom data model...
+Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
+\c@afterword=\count537
+\c@savedafterword=\count538
+\c@annotator=\count539
+\c@savedannotator=\count540
+\c@author=\count541
+\c@savedauthor=\count542
+\c@bookauthor=\count543
+\c@savedbookauthor=\count544
+\c@commentator=\count545
+\c@savedcommentator=\count546
+\c@editor=\count547
+\c@savededitor=\count548
+\c@editora=\count549
+\c@savededitora=\count550
+\c@editorb=\count551
+\c@savededitorb=\count552
+\c@editorc=\count553
+\c@savededitorc=\count554
+\c@foreword=\count555
+\c@savedforeword=\count556
+\c@holder=\count557
+\c@savedholder=\count558
+\c@introduction=\count559
+\c@savedintroduction=\count560
+\c@namea=\count561
+\c@savednamea=\count562
+\c@nameb=\count563
+\c@savednameb=\count564
+\c@namec=\count565
+\c@savednamec=\count566
+\c@translator=\count567
+\c@savedtranslator=\count568
+\c@shortauthor=\count569
+\c@savedshortauthor=\count570
+\c@shorteditor=\count571
+\c@savedshorteditor=\count572
+\c@labelname=\count573
+\c@savedlabelname=\count574
+\c@institution=\count575
+\c@savedinstitution=\count576
+\c@lista=\count577
+\c@savedlista=\count578
+\c@listb=\count579
+\c@savedlistb=\count580
+\c@listc=\count581
+\c@savedlistc=\count582
+\c@listd=\count583
+\c@savedlistd=\count584
+\c@liste=\count585
+\c@savedliste=\count586
+\c@listf=\count587
+\c@savedlistf=\count588
+\c@location=\count589
+\c@savedlocation=\count590
+\c@organization=\count591
+\c@savedorganization=\count592
+\c@origlocation=\count593
+\c@savedoriglocation=\count594
+\c@origpublisher=\count595
+\c@savedorigpublisher=\count596
+\c@publisher=\count597
+\c@savedpublisher=\count598
+\c@language=\count599
+\c@savedlanguage=\count600
+\c@origlanguage=\count601
+\c@savedoriglanguage=\count602
+\c@pageref=\count603
+\c@savedpageref=\count604
+\shorthandwidth=\skip95
+\shortjournalwidth=\skip96
+\shortserieswidth=\skip97
+\shorttitlewidth=\skip98
+\shortauthorwidth=\skip99
+\shorteditorwidth=\skip100
+\locallabelnumberwidth=\skip101
+\locallabelalphawidth=\skip102
+\localshorthandwidth=\skip103
+\localshortjournalwidth=\skip104
+\localshortserieswidth=\skip105
+\localshorttitlewidth=\skip106
+\localshortauthorwidth=\skip107
+\localshorteditorwidth=\skip108
+Package biblatex Info: Trying to load compatibility code...
+Package biblatex Info: ... file 'blx-compat.def' found.
+ (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-compat.def
+File: blx-compat.def 2023/03/05 v3.19 biblatex compatibility (PK/MW)
+)
+Package biblatex Info: Trying to load generic definitions...
+Package biblatex Info: ... file 'biblatex.def' found.
+ (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.def
+File: biblatex.def 2023/03/05 v3.19 biblatex compatibility (PK/MW)
+\c@textcitecount=\count605
+\c@textcitetotal=\count606
+\c@textcitemaxnames=\count607
+\c@biburlbigbreakpenalty=\count608
+\c@biburlbreakpenalty=\count609
+\c@biburlnumpenalty=\count610
+\c@biburlucpenalty=\count611
+\c@biburllcpenalty=\count612
+\biburlbigskip=\muskip18
+\biburlnumskip=\muskip19
+\biburlucskip=\muskip20
+\biburllcskip=\muskip21
+\c@smartand=\count613
+)
+Package biblatex Info: Trying to load natbib compatibility...
+Package biblatex Info: ... file 'blx-natbib.def' found.
+ (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-natbib.def
+File: blx-natbib.def 2023/03/05 v3.19 biblatex compatibility (PK/MW)
+Package biblatex Info: Delimiter 'nameyeardelim' in context '' already defined, overwriting.
+)
+Package biblatex Info: Trying to load bibliography style 'authoryear'...
+Package biblatex Info: ... file 'authoryear.bbx' found.
+ (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/bbx\authoryear.bbx
+File: authoryear.bbx 2023/03/05 v3.19 biblatex bibliography style (PK/MW)
+Package biblatex Info: Trying to load bibliography style 'standard'...
+Package biblatex Info: ... file 'standard.bbx' found.
+ (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/bbx\standard.bbx
+File: standard.bbx 2023/03/05 v3.19 biblatex bibliography style (PK/MW)
+\c@bbx:relatedcount=\count614
+\c@bbx:relatedtotal=\count615
+))
+Package biblatex Info: Trying to load citation style 'authoryear'...
+Package biblatex Info: ... file 'authoryear.cbx' found.
+ (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/cbx\authoryear.cbx
+File: authoryear.cbx 2023/03/05 v3.19 biblatex citation style (PK/MW)
+Package biblatex Info: Redefining '\cite'.
+Package biblatex Info: Redefining '\parencite'.
+Package biblatex Info: Redefining '\footcite'.
+Package biblatex Info: Redefining '\footcitetext'.
+Package biblatex Info: Redefining '\smartcite'.
+Package biblatex Info: Redefining '\textcite'.
+Package biblatex Info: Redefining '\textcites'.
+)
+Package biblatex Info: Trying to load configuration file...
+Package biblatex Info: ... file 'biblatex.cfg' found.
+ (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.cfg
+File: biblatex.cfg 
+)
+Package biblatex Info: Input encoding 'utf8' detected.
+Package biblatex Info: Document encoding is UTF8 ....
+Package biblatex Info: ... and expl3
+(biblatex)             2024-01-04 L3 programming layer (loader) 
+(biblatex)             is new enough (at least 2020/04/06),
+(biblatex)             setting 'casechanger=expl3'.
+ (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-case-expl3.sty
+Package: blx-case-expl3 2023/03/05 v3.19 expl3 case changing code for biblatex
+))
+Package hyperref Info: Option `bookmarksnumbered' set `true' on input line 64.
+Package hyperref Info: Option `colorlinks' set `true' on input line 64.
+) (Configurations/04-Headers.sty (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/latex/fancyhdr\fancyhdr.sty
+Package: fancyhdr 2025/02/07 v5.2 Extensive control of page headers and footers
+\f@nch@headwidth=\skip109
+\f@nch@offset@elh=\skip110
+\f@nch@offset@erh=\skip111
+\f@nch@offset@olh=\skip112
+\f@nch@offset@orh=\skip113
+\f@nch@offset@elf=\skip114
+\f@nch@offset@erf=\skip115
+\f@nch@offset@olf=\skip116
+\f@nch@offset@orf=\skip117
+\f@nch@height=\skip118
+\f@nch@footalignment=\skip119
+\f@nch@widthL=\skip120
+\f@nch@widthC=\skip121
+\f@nch@widthR=\skip122
+\@temptokenb=\toks78
+) (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/latex/footmisc\footmisc.sty
+Package: footmisc 2025/05/09 v7.0b a miscellany of footnote facilities
+ (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/latex/footmisc\footmisc-2022-02-14.sty
+Package: footmisc 2024/12/24 v6.0g a miscellany of footnote facilities
+\FN@temptoken=\toks79
+\footnotemargin=\dimen391
+\@outputbox@depth=\dimen392
+Package footmisc Info: Declaring symbol style bringhurst on input line 699.
+Package footmisc Info: Declaring symbol style chicago on input line 707.
+Package footmisc Info: Declaring symbol style wiley on input line 716.
+Package footmisc Info: Declaring symbol style lamport-robust on input line 727.
+Package footmisc Info: Declaring symbol style lamport* on input line 747.
+Package footmisc Info: Declaring symbol style lamport*-robust on input line 768.
+))) (Configurations/05-Contents.sty) (Configurations/06-Glossary.sty) (Configurations/07-Chapters.sty) (Configurations/08-Tables.sty) (Configurations/09-Code.sty (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count616
+\float@exts=\toks80
+\float@box=\box102
+\@float@everytoks=\toks81
+\@floatcapt=\box103
+)) (Configurations/10-Macros.sty
+\c@tcb@cnt@block=\count617
+)) (Configurations/11-Metadata.sty) (Metadata/Metadata.tex)
+\glswrite=\write6
+\glo@main@file=\write7
+\openout7 = `IPLeiriaMain.glo'.
+
+Package glossaries Info: Writing glossary file IPLeiriaMain.glo on input line 27.
+\glo@acronym@file=\write8
+\openout8 = `IPLeiriaMain.acn'.
+
+Package glossaries Info: Writing glossary file IPLeiriaMain.acn on input line 27.
+ (Matter/05-Glossary.tex) (Matter/06-Acronyms.tex) (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/latex/base\textcomp.sty
+Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
+)
+Package csquotes Info: Checking for multilingual support...
+Package csquotes Info: ... found 'babel' package.
+Package csquotes Info: Adjusting default style.
+Package csquotes Info: Redefining alias 'default' -> 'english'.
+LaTeX Font Info:    Trying to load font information for T1+qpl on input line 31.
+ (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/latex/tex-gyre\t1qpl.fd
+File: t1qpl.fd 2009/09/25 v1.2 font definition file for T1/qpl
+) (IPLeiriaMain.aux (Matter/00-Cover.aux) (Matter/01-Front-Page.aux) (Matter/02-Copyright.aux) (Chapters/00-Abstract.aux) (Chapters/01-Introduction.aux) (Chapters/02-Marco-Teorico.aux) (Chapters/03-Analisis-Diseno.aux) (Chapters/04-Proceso-Diseno.aux) (Chapters/05-Arquitectura-Sistema.aux) (Chapters/06-Implementacion.aux))
+\openout1 = `IPLeiriaMain.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/npxmi/m/it on input line 31.
+LaTeX Font Info:    Trying to load font information for OML+npxmi on input line 31.
+ (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/latex/newpx\omlnpxmi.fd
+File: omlnpxmi.fd 2013/03/21 Fontinst v1.933 font definitions for OML/npxmi.
+)
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for U/npxexa/m/n on input line 31.
+LaTeX Font Info:    Trying to load font information for U+npxexa on input line 31.
+ (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/latex/newpx\unpxexa.fd
+File: unpxexa.fd 2013/03/24 Fontinst v1.933 font definitions for U/npxexa.
+)
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for LMS/npxsy/m/n on input line 31.
+LaTeX Font Info:    Trying to load font information for LMS+npxsy on input line 31.
+ (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/latex/newpx\lmsnpxsy.fd
+File: lmsnpxsy.fd 2016/07/04 Fontinst v1.933 font definitions for LMS/npxsy.
+)
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for LMX/npxexx/m/n on input line 31.
+LaTeX Font Info:    Trying to load font information for LMX+npxexx on input line 31.
+ (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/latex/newpx\lmxnpxexx.fd
+File: lmxnpxexx.fd 2016/07/04 Fontinst v1.933 font definitions for LMX/npxexx.
+)
+LaTeX Font Info:    ... okay on input line 31.
+ (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count618
+\scratchdimen=\dimen393
+\scratchbox=\box104
+\nofMPsegments=\count619
+\nofMParguments=\count620
+\everyMPshowfont=\toks82
+\MPscratchCnt=\count621
+\MPscratchDim=\dimen394
+\MPnumerator=\count622
+\makeMPintoPDFobject=\count623
+\everyMPtoPDFconversion=\toks83
+) (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+ (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: float package is loaded.
+Package caption Info: hyperref package is loaded.
+Package caption Info: listings package is loaded.
+Package caption Info: longtable package is loaded.
+ (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/latex/caption\ltcaption.sty
+Package: ltcaption 2021/01/08 v1.4c longtable captions (AR)
+)
+Package caption Info: supertabular package is loaded.
+Package caption Info: End \AtBeginDocument code.
+LaTeX Info: Command `\dddot' is already robust on input line 31.
+LaTeX Info: Command `\ddddot' is already robust on input line 31.
+Package hyperref Info: Link coloring ON on input line 31.
+ (IPLeiriaMain.out) (IPLeiriaMain.out)
+\@outlinefile=\write9
+\openout9 = `IPLeiriaMain.out'.
+
+ (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/latex/translator\translator-months-dictionary-English.dict
+Dictionary: translator-months-dictionary, Language: English 
+)
+Package newfloat Info: Trying Plan B...
+Package newfloat Info: `float' package detected.
+\c@lstlisting=\count624
+ (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
+Package: inputenc 2021/02/14 v1.3d Input encoding file
+\inpenc@prehook=\toks84
+\inpenc@posthook=\toks85
+)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: twoside 
+* h-part:(L,W,R)=(89.626pt, 418.25586pt, 89.626pt)
+* v-part:(T,H,B)=(72.2698pt, 700.50723pt, 72.2698pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=418.25586pt
+* \textheight=680.50723pt
+* \oddsidemargin=17.35602pt
+* \evensidemargin=17.35602pt
+* \topmargin=-38.33974pt
+* \headheight=20.0pt
+* \headsep=21.33955pt
+* \topskip=11.0pt
+* \footskip=45.52458pt
+* \marginparwidth=89.62619pt
+* \marginparsep=12.8401pt
+* \columnsep=10.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+Package biblatex Info: Trying to load language 'english'...
+Package biblatex Info: ... file 'english.lbx' found.
+(C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/lbx\english.lbx
+File: english.lbx 2023/03/05 v3.19 biblatex localization (PK/MW)
+)
+Package biblatex Info: Input encoding 'utf8' detected.
+Package biblatex Info: Automatic encoding selection.
+(biblatex)             Assuming data encoding 'utf8'.
+\openout5 = `IPLeiriaMain.bcf'.
+
+Package biblatex Info: Trying to load bibliographic data...
+Package biblatex Info: ... file 'IPLeiriaMain.bbl' found.
+ (IPLeiriaMain.bbl)
+Package biblatex Info: Reference section=0 on input line 31.
+Package biblatex Info: Reference segment=0 on input line 31.
+\openout2 = `Matter/00-Cover.aux'.
+
+ (Matter/00-Cover.tex
+*geometry* verbose mode - [ newgeometry ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: twoside 
+* h-part:(L,W,R)=(56.33633pt, 484.8352pt, 56.33633pt)
+* v-part:(T,H,B)=(61.17325pt, 742.04802pt, 41.82558pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=484.8352pt
+* \textheight=742.04802pt
+* \oddsidemargin=-15.93365pt
+* \evensidemargin=-15.93365pt
+* \topmargin=-52.4363pt
+* \headheight=20.0pt
+* \headsep=21.33955pt
+* \topskip=11.0pt
+* \footskip=45.52458pt
+* \marginparwidth=89.62619pt
+* \marginparsep=12.8401pt
+* \columnsep=10.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+LaTeX Font Info:    Trying to load font information for T1+cmss on input line 15.
+ (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/latex/base\t1cmss.fd
+File: t1cmss.fd 2023/04/13 v2.5m Standard LaTeX font definitions
+)
+
+LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
+(Font)              using `T1/cmss/m/n' instead on input line 22.
+
+
+LaTeX Font Warning: Font shape `T1/cmss/b/n' in size <20> not available
+(Font)              size <20.74> substituted on input line 40.
+
+LaTeX Font Info:    Trying to load font information for U+msa on input line 40.
+(C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 40.
+ (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Trying to load font information for U+npxmia on input line 40.
+ (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/latex/newpx\unpxmia.fd
+File: unpxmia.fd 2013/03/24 Fontinst v1.933 font definitions for U/npxmia.
+)
+LaTeX Font Info:    Trying to load font information for U+npxsym on input line 40.
+ (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/latex/newpx\unpxsym.fd
+File: unpxsym.fd 2023/08/16 Fontinst v1.933 font definitions for U/npxsym.
+)
+LaTeX Font Info:    Trying to load font information for U+npxsyc on input line 40.
+ (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/latex/newpx\unpxsyc.fd
+File: unpxsyc.fd 2013/03/24 Fontinst v1.933 font definitions for U/npxsyc.
+)
+
+pdfTeX warning: pdflatex (file ./Figures/Theme/Cover-BG.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<Figures/Theme/Cover-BG.pdf, id=366, 597.23125pt x 845.1575pt>
+File: Figures/Theme/Cover-BG.pdf Graphic file (type pdf)
+<use Figures/Theme/Cover-BG.pdf>
+Package pdftex.def Info: Figures/Theme/Cover-BG.pdf  used on input line 89.
+(pdftex.def)             Requested size: 597.16599pt x 845.06516pt.
+[1
+Non-PDF special ignored!
+<special> header=pstricks.pro
+Non-PDF special ignored!
+<special> header=pst-algparser.pro
+Non-PDF special ignored!
+<special> header=pst-tools.pro
+Non-PDF special ignored!
+<special> header=pst-dots.pro
+Non-PDF special ignored!
+<special> header=psvectorian.pro
+
+Non-PDF special ignored!
+<special> ps: /pssetRGBcolor /setrgbcolor load def /pssetCMYKcolor /setcmyk...
+Non-PDF special ignored!
+<special> ps:tx@Dict begin  gsave STV CP T /ps@rot 0 def grestore  end
+Non-PDF special ignored!
+<special> ps:tx@Dict begin  gsave STV CP T /ps@refangle 0.  def grestore  e...
+\openout6 = `IPLeiriaMain.ist'.
+
+
+
+{C:/Users/gamur/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./Figures/Theme/Cover-BG.pdf>] [2
+
+
+{C:/Users/gamur/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/tex-gyre/q-ec.enc}])
+\openout2 = `Matter/01-Front-Page.aux'.
+
+ (Matter/01-Front-Page.tex
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.58     \begin{flushleft}
+                           [1
+
+
+
+
+]
+pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.79 \end{titlepage}
+                     [2])
+\openout2 = `Matter/02-Copyright.aux'.
+
+ (Matter/02-Copyright.tex
+Overfull \hbox (0.65048pt too wide) in paragraph at lines 37--37
+\T1/qpl/b/n/10.95 DESARROLLO DE SITIO WEB COR-PO-RA-TIVO TECH-SO-LU-TIONS PRO CON AN-
+ []
+
+LaTeX Font Info:    Trying to load font information for TS1+qpl on input line 37.
+(C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/latex/tex-gyre\ts1qpl.fd
+File: ts1qpl.fd 2009/09/25 v1.2 font definition file for TS1/qpl
+) [1
+
+
+
+{C:/Users/gamur/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/tex-gyre/q-ts1.enc}]
+pdfTeX warning (ext4): destination with the same identifier (name{page.}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.40 \MediaOptionLogic
+                       [2
+
+])
+\openout2 = `Chapters/00-Abstract.aux'.
+
+ (Chapters/00-Abstract.tex [1
+
+
+
+
+
+] [2
+
+] [3
+
+
+] [4
+
+]) (IPLeiriaMain.toc [5
+
+
+
+
+] [6])
+\tf@toc=\write10
+\openout10 = `IPLeiriaMain.toc'.
+
+ [7] [8
+
+] (IPLeiriaMain.lof)
+\tf@lof=\write11
+\openout11 = `IPLeiriaMain.lof'.
+
+ [9
+
+
+] [10
+
+] (IPLeiriaMain.lot)
+\tf@lot=\write12
+\openout12 = `IPLeiriaMain.lot'.
+
+ [11
+
+
+] [12
+
+]
+No file IPLeiriaMain.gls.
+[13
+
+] [14
+
+]
+No file IPLeiriaMain.acr.
+[15
+
+] [16
+
+]
+\openout2 = `Chapters/01-Introduction.aux'.
+
+ (Chapters/01-Introduction.tex
+Chapter 1.
+Package newfloat Info: Setting Plan B file extension to `lof'... on input line 1.
+
+Underfull \vbox (badness 3930) has occurred while \output is active []
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.29 
+      [1
+
+
+
+]
+pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.55 
+      [2]
+Overfull \hbox (2.57394pt too wide) in paragraph at lines 60--61
+[]\T1/qpl/m/n/10.95 Implementar for-mu-la-rios re-ac-tivos con val-i-dación ro-busta uti-lizando las fun-cional-
+ []
+
+
+Overfull \hbox (2.59679pt too wide) in paragraph at lines 77--78
+[]\T1/qpl/m/n/10.95 El de-sar-rollo in-cluye la im-ple-mentación de com-po-nentes re-uti-liz-ables (header, footer,
+ []
+
+
+Overfull \hbox (30.92888pt too wide) in paragraph at lines 91--92
+[]\T1/qpl/m/n/10.95 Estas lim-ita-ciones per-miten en-fo-car el de-sar-rollo en la apli-cación cor-recta de la metodología
+ []
+
+) [3] [4]
+\openout2 = `Chapters/02-Marco-Teorico.aux'.
+
+ (Chapters/02-Marco-Teorico.tex
+Chapter 2.
+[5
+
+
+
+
+]
+Overfull \hbox (6.28578pt too wide) in paragraph at lines 42--43
+\T1/qpl/m/n/10.95 La capa de es-truc-tura se en-foca en la or-ga-ni-zación y in-ter-ac-ción de los el-e-men-tos definidos
+ []
+
+[6] [7] [8] [9]
+Overfull \hbox (7.79688pt too wide) in paragraph at lines 192--193
+[]\T1/qpl/m/n/10.95 Crear in-ter-faces in-ter-ac-ti-vas que re-spon-dan efi-cien-te-mente a las ac-ciones del usuario 
+ []
+
+) [10]
+\openout2 = `Chapters/03-Analisis-Diseno.aux'.
+
+ (Chapters/03-Analisis-Diseno.tex
+Chapter 3.
+[11
+
+
+
+
+] [12] [13] [14]
+Overfull \hbox (5.73303pt too wide) in paragraph at lines 195--196
+[]\T1/qpl/b/n/10.95 Clientes po-ten-ciales\T1/qpl/m/n/10.95 : Em-pre-sas que bus-can solu-ciones tec-nológ-i-cas per-son-al-izadas 
+ []
+
+[15] [16] [17] [18]) [19]
+\openout2 = `Chapters/04-Proceso-Diseno.aux'.
+
+ (Chapters/04-Proceso-Diseno.tex
+Chapter 4.
+[20
+
+
+
+
+]) [21] [22]
+\openout2 = `Chapters/05-Arquitectura-Sistema.aux'.
+
+ (Chapters/05-Arquitectura-Sistema.tex
+Chapter 5.
+[23
+
+
+
+
+]
+LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 48.
+ (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/latex/base\t1cmtt.fd
+File: t1cmtt.fd 2023/04/13 v2.5m Standard LaTeX font definitions
+) [24]) [25]
+\openout2 = `Chapters/06-Implementacion.aux'.
+
+ (Chapters/06-Implementacion.tex
+Chapter 6.
+(C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstlang1.sty
+File: lstlang1.sty 2023/02/27 1.9 listings language file
+) (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstlang1.sty
+File: lstlang1.sty 2023/02/27 1.9 listings language file
+)
+Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on input line 11.
+ [26
+
+
+
+
+] (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstlang1.sty
+File: lstlang1.sty 2023/02/27 1.9 listings language file
+) (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstmisc.sty
+File: lstmisc.sty 2023/02/27 1.9 (Carsten Heinz)
+) [27]
+Overfull \hbox (2.22754pt too wide) in paragraph at lines 80--81
+[][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (48.21791pt too wide) in paragraph at lines 84--85
+[][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (21.9377pt too wide) in paragraph at lines 85--86
+[][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (35.0778pt too wide) in paragraph at lines 86--87
+[][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (41.64786pt too wide) in paragraph at lines 113--114
+[][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+[28]
+Overfull \hbox (94.20828pt too wide) in paragraph at lines 130--131
+[][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+[29]
+Overfull \hbox (166.47887pt too wide) in paragraph at lines 185--187
+[][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (8.79759pt too wide) in paragraph at lines 200--201
+[][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (28.50775pt too wide) in paragraph at lines 203--204
+[][][][][][][][][][][][][][][][][][][] 
+ []
+
+[30]
+Overfull \hbox (8.79759pt too wide) in paragraph at lines 210--211
+[][][][][][][][][][][][][][][][][][][] 
+ []
+
+[31]
+Overfull \hbox (28.50775pt too wide) in paragraph at lines 271--272
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+[32]
+Overfull \hbox (54.78796pt too wide) in paragraph at lines 296--297
+[][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (35.0778pt too wide) in paragraph at lines 298--300
+[][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+[33]
+Overfull \hbox (41.64786pt too wide) in paragraph at lines 352--353
+[][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (2.22754pt too wide) in paragraph at lines 357--358
+[][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+[34]
+Overfull \hbox (15.36765pt too wide) in paragraph at lines 387--388
+[][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+[35]
+
+LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <5.5> not available
+(Font)              size <5> substituted on input line 455.
+
+
+LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <4.45297> not available
+(Font)              size <5> substituted on input line 455.
+
+
+LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <3.35501> not available
+(Font)              size <5> substituted on input line 455.
+
+) [36] [37
+
+
+
+]
+
+LaTeX Warning: Empty bibliography on input line 68.
+
+(Matter/09-Back-Page.tex [38
+
+
+]
+
+pdfTeX warning: pdflatex (file ./Figures/Theme/Back-Page-BG.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<Figures/Theme/Back-Page-BG.pdf, id=1060, 597.23125pt x 845.1575pt>
+File: Figures/Theme/Back-Page-BG.pdf Graphic file (type pdf)
+<use Figures/Theme/Back-Page-BG.pdf>
+Package pdftex.def Info: Figures/Theme/Back-Page-BG.pdf  used on input line 29.
+(pdftex.def)             Requested size: 597.16599pt x 845.06516pt.
+[39
+
+
+ <./Figures/Theme/Back-Page-BG.pdf>]
+*geometry* verbose mode - [ newgeometry ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: twoside 
+* h-part:(L,W,R)=(56.33633pt, 484.8352pt, 56.33633pt)
+* v-part:(T,H,B)=(41.82558pt, 761.39569pt, 41.82558pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=484.8352pt
+* \textheight=761.39569pt
+* \oddsidemargin=-15.93365pt
+* \evensidemargin=-15.93365pt
+* \topmargin=-71.78397pt
+* \headheight=20.0pt
+* \headsep=21.33955pt
+* \topskip=11.0pt
+* \footskip=45.52458pt
+* \marginparwidth=89.62619pt
+* \marginparsep=12.8401pt
+* \columnsep=10.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+)
+runsystem(latexminted cleantemp  --timestamp 20250713210003 79592720F62061E1E8E9E2E536A33C2E)...disabled (restricted).
+
+ (IPLeiriaMain.aux (Matter/00-Cover.aux) (Matter/01-Front-Page.aux) (Matter/02-Copyright.aux) (Chapters/00-Abstract.aux) (Chapters/01-Introduction.aux) (Chapters/02-Marco-Teorico.aux) (Chapters/03-Analisis-Diseno.aux) (Chapters/04-Proceso-Diseno.aux) (Chapters/05-Arquitectura-Sistema.aux) (Chapters/06-Implementacion.aux))
+ ***********
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-04>
+ ***********
+
+
+LaTeX Font Warning: Size substitutions with differences
+(Font)              up to 1.64499pt have occurred.
+
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+Package rerunfilecheck Info: File `IPLeiriaMain.out' has not changed.
+(rerunfilecheck)             Checksum: 06316D77081FF0EF768267653B0F686B;17525.
+Package logreq Info: Writing requests to 'IPLeiriaMain.run.xml'.
+\openout1 = `IPLeiriaMain.run.xml'.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 61795 strings out of 474486
+ 1282691 string characters out of 5743756
+ 2319186 words of memory out of 5000000
+ 82543 multiletter control sequences out of 15000+600000
+ 634159 words of font info for 127 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 123i,13n,121p,2681b,2351s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ <C:\Users\gamur\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ectt1095.pk> <C:\Users\gamur\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecss2074.pk> <C:\Users\gamur\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecss1200.pk> <C:\Users\gamur\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecss1440.pk><C:/Users/gamur/AppData/Local/Programs/MiKTeX/fonts/type1/public/tex-gyre/qplb.pfb><C:/Users/gamur/AppData/Local/Programs/MiKTeX/fonts/type1/public/tex-gyre/qplr.pfb><C:/Users/gamur/AppData/Local/Programs/MiKTeX/fonts/type1/public/tex-gyre/qplri.pfb><C:/Users/gamur/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/txsym.pfb>
+Output written on IPLeiriaMain.pdf (61 pages, 561012 bytes).
+PDF statistics:
+ 1333 PDF objects out of 1440 (max. 8388607)
+ 489 named destinations out of 1000 (max. 500000)
+ 815 words of extra memory for PDF output out of 10000 (max. 10000000)
+

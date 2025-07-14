@@ -33,7 +33,8 @@ import { TeamMember } from '../../models/team-member.model';
                 <div class="card-front">
                   <div class="member-image">
                     <img [src]="member.photo" [alt]="member.name" 
-                         onerror="this.src='assets/images/placeholder-avatar.jpg'">
+                         onerror="this.src='/placeholder.svg'; console.error('Error loading image:', this.src)"
+                         onload="console.log('Image loaded successfully:', this.src)">
                     <div class="image-overlay">
                       <div class="social-links">
                         <a [href]="member.linkedin" *ngIf="member.linkedin" target="_blank" aria-label="LinkedIn">
@@ -249,13 +250,18 @@ import { TeamMember } from '../../models/team-member.model';
       height: 250px;
       overflow: hidden;
       border-radius: 15px 15px 0 0;
+      background: #f8f9fa;
+      display: flex;
+      align-items: center;
+      justify-content: center;
     }
 
     .member-image img {
-      width: 100%;
-      height: 100%;
-      object-fit: cover;
+      width: 90%;
+      height: 90%;
+      object-fit: contain;
       transition: transform 0.3s ease;
+      border-radius: 10px;
     }
 
     .image-overlay {

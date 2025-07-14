@@ -1,0 +1,91 @@
+% Simplified background without PSTricks conflicts
+\newcommand\BackgroundPicCover{%
+\put(0,0){%
+\parbox[b][\paperheight]{\paperwidth}{%
+\vfill
+\centering
+\includegraphics[width=\paperwidth,height=\paperheight,keepaspectratio]{Figures/Theme/Cover-BG.pdf}%
+\vfill
+}}}
+
+\AddToShipoutPictureBG*{\BackgroundPicCover}
+
+\newgeometry{margin=1.98cm, top=2.15cm, bottom=1.47cm}
+\begin{titlepage}
+    \latofont
+    \ifthenelse{\equal{\CoverOption}{classic}}{\color{white}}{\color{frontpagedark}}
+    \vspace*{\baselineskip}
+
+    % Encabezado institucional ESPE
+    \vspace{2\baselineskip}
+    \begin{center}
+        {\Large\textbf{UNIVERSIDAD DE LAS FUERZAS ARMADAS ESPE}}
+        
+        \vspace{0.8cm}
+        {\large\textbf{DEPARTAMENTO DE CIENCIAS DE LA COMPUTACIÓN}}
+        
+        \vspace{0.5cm}
+        {\large\textbf{CARRERA DE INGENIERÍA EN SISTEMAS E INFORMÁTICA}}
+    \end{center}
+
+    \vspace{4\baselineskip}
+
+    % Title.
+	\noindent
+    \makebox[\textwidth][l]{%
+        \parbox{\dimexpr\textwidth-4cm\relax}{
+            \setstretch{1.03}
+            \raggedright\bfseries\fontsize{20}{26}\selectfont\GetTitle
+        }
+    }
+
+    \vspace{0.8\baselineskip}
+
+    % Subtitle.
+    \noindent
+    \makebox[\textwidth][l]{%
+        \parbox{\dimexpr\textwidth-7cm\relax}{
+            \setstretch{1.03}
+            \raggedright\fontsize{14}{19}\selectfont\GetSubtitle
+        }
+    }
+
+    \vspace{35pt}  
+
+    % Authors.
+    {\noindent\bfseries\fontsize{14}{19}\selectfont\GetFirstAuthor}
+
+    \ifdefined\GetSecondAuthor
+        \vspace{8pt}
+        {\noindent\bfseries\fontsize{14}{19}\selectfont\GetSecondAuthor}
+	\fi
+
+    \ifdefined\GetThirdAuthor
+        \vspace{8pt}
+        {\noindent\bfseries\fontsize{14}{19}\selectfont\GetThirdAuthor}
+	\fi
+ 
+	\vfill
+
+    % Course and Academic info.
+    \ifdefined\GetCourse
+        {\noindent\fontsize{12}{14}\selectfont\textbf{Materia:} \GetCourse}
+        
+        \vspace{8pt}
+        {\noindent\fontsize{12}{14}\selectfont\textbf{Nivel:} V Nivel - Período \GetAcademicYear}
+        
+        \vspace{16pt}
+	\fi
+
+    % Supervisor.
+    {\noindent\fontsize{12}{14}\selectfont\textbf{Docente:} \GetSupervisor}
+
+    \vspace{32pt}
+
+    % Local & Date.
+	{\noindent\fontsize{12}{14}\selectfont\GetDate}
+
+    \vspace{68pt}
+\end{titlepage}
+\restoregeometry
+\MediaOptionLogicBlank

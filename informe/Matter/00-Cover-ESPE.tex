@@ -1,0 +1,73 @@
+% Portada simplificada para ESPE - TechSolutions Pro
+\begin{titlepage}
+    \centering
+    
+    % Espaciado superior
+    \vspace*{1.5cm}
+    
+    % Encabezado institucional
+    {\Large\textbf{UNIVERSIDAD DE LAS FUERZAS ARMADAS ESPE}}
+    
+    \vspace{0.8cm}
+    {\large\textbf{DEPARTAMENTO DE CIENCIAS DE LA COMPUTACIÓN}}
+    
+    \vspace{0.5cm}
+    {\large\textbf{CARRERA DE INGENIERÍA EN SISTEMAS E INFORMÁTICA}}
+    
+    \vspace{3cm}
+    
+    % Título del proyecto
+    \begin{center}
+        \parbox{0.85\textwidth}{
+            \centering
+            {\huge\textbf{\GetTitle}}
+        }
+    \end{center}
+    
+    \vspace{1.5cm}
+    
+    % Subtítulo
+    \begin{center}
+        \parbox{0.75\textwidth}{
+            \centering
+            {\Large\GetSubtitle}
+        }
+    \end{center}
+    
+    \vspace{3cm}
+    
+    % Información del trabajo
+    {\large\textbf{Materia:} \GetCourse}
+    
+    \vspace{0.5cm}
+    {\large\textbf{Nivel:} V Nivel - Período \GetAcademicYear}
+    
+    \vspace{2cm}
+    
+    % Autores
+    {\large\textbf{Estudiantes:}}
+    
+    \vspace{0.8cm}
+    {\large\GetFirstAuthor}
+    
+    \ifdefined\GetSecondAuthor
+        \vspace{0.5cm}
+        {\large\GetSecondAuthor}
+    \fi
+    
+    \ifdefined\GetThirdAuthor
+        \vspace{0.5cm}
+        {\large\GetThirdAuthor}
+    \fi
+    
+    \vspace{2cm}
+    
+    % Docente
+    {\large\textbf{Docente:} \GetSupervisor}
+    
+    \vfill
+    
+    % Fecha y lugar
+    {\large\GetDate}
+    
+\end{titlepage}

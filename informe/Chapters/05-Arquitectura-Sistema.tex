@@ -1,0 +1,92 @@
+\chapter{Arquitectura del Sistema}
+
+Este capítulo describe la arquitectura técnica del sitio web corporativo de TechSolutions Pro, desarrollado con Angular 19 y siguiendo las mejores prácticas de desarrollo web moderno.
+
+\section{Arquitectura General}
+
+El sistema está basado en una arquitectura de aplicación web de página única (SPA) utilizando el framework Angular 19, que proporciona una experiencia de usuario fluida y responsiva.
+
+\subsection{Componentes Principales}
+
+La aplicación se estructura en los siguientes componentes principales:
+
+\begin{itemize}
+    \item \textbf{App Component}: Componente raíz que contiene la estructura general de la aplicación
+    \item \textbf{Header Component}: Barra de navegación superior con menú responsivo
+    \item \textbf{Footer Component}: Pie de página con información de contacto y enlaces
+    \item \textbf{Home Component}: Página principal con presentación de la empresa
+    \item \textbf{Services Component}: Página de servicios ofrecidos
+    \item \textbf{About Component}: Página sobre la empresa
+    \item \textbf{Contact Component}: Formulario de contacto con validaciones
+\end{itemize}
+
+\section{Tecnologías Utilizadas}
+
+\subsection{Frontend}
+
+\begin{itemize}
+    \item \textbf{Angular 19}: Framework principal para el desarrollo
+    \item \textbf{TypeScript}: Lenguaje de programación tipado
+    \item \textbf{SCSS}: Preprocesador CSS para estilos avanzados
+    \item \textbf{Angular Router}: Sistema de navegación entre páginas
+    \item \textbf{Reactive Forms}: Manejo de formularios con validaciones
+\end{itemize}
+
+\subsection{Herramientas de Desarrollo}
+
+\begin{itemize}
+    \item \textbf{Angular CLI}: Herramienta de línea de comandos
+    \item \textbf{Node.js}: Entorno de ejecución JavaScript
+    \item \textbf{npm}: Gestor de paquetes
+    \item \textbf{VS Code}: Editor de código recomendado
+\end{itemize}
+
+\section{Estructura de Directorios}
+
+La estructura del proyecto sigue las convenciones de Angular:
+
+\begin{verbatim}
+src/
+|-- app/
+    |-- components/
+        |-- header/
+        |-- footer/
+        +-- ...
+    |-- pages/
+        |-- home/
+        |-- services/
+        |-- about/
+        +-- contact/
+    |-- services/
+    |-- models/
+    +-- app.component.ts
+|-- assets/
+    +-- images/
++-- styles.scss
+\end{verbatim}
+
+\section{Patrones de Diseño}
+
+\subsection{Arquitectura Basada en Componentes}
+
+La aplicación utiliza una arquitectura modular basada en componentes reutilizables, facilitando el mantenimiento y la escalabilidad del código.
+
+\subsection{Separación de Responsabilidades}
+
+Cada componente tiene una responsabilidad específica:
+\begin{itemize}
+    \item \textbf{Presentación}: Componentes de UI
+    \item \textbf{Lógica de negocio}: Servicios
+    \item \textbf{Datos}: Modelos e interfaces
+    \item \textbf{Estilos}: Archivos SCSS modulares
+\end{itemize}
+
+\section{Metodología Jesse James Garrett - Capa de Esqueleto}
+
+Esta arquitectura implementa la capa de esqueleto de la metodología Jesse James Garrett:
+
+\begin{itemize}
+    \item \textbf{Diseño de Interfaz}: Componentes Angular reutilizables
+    \item \textbf{Diseño de Navegación}: Angular Router para SPA
+    \item \textbf{Diseño de Información}: Estructura de datos TypeScript
+\end{itemize}

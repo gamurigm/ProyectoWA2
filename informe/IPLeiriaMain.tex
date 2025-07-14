@@ -1,0 +1,73 @@
+% Author Name: José Areia 
+% Author Contact: jose.apareia@gmail.com
+% Version: 2.2.9 - 2025-06-23
+% Public Repository: https://github.com/joseareia/ipleiria-thesis
+% Wiki/Getting Help: https://github.com/joseareia/ipleiria-thesis/wiki
+
+%%% Document Options %%%
+\documentclass[
+    language=spanish,
+    school=estg,
+    docstage=final,
+    media=paper,
+    bookprint=false,
+    linkcolor=red!45!black,
+    chapterstyle=classic,
+    coverstyle=classic,
+    aiack=true
+]{IPLeiriaThesis} % Refer to the Wiki for a list of available options.
+
+%%% Document Version %%%
+\DocumentVersion{1.0.0} % Required only if the 'docstage' is set to 'working'.
+
+%%% Document Metadata %%%
+\input{Metadata/Metadata}
+
+%%% Loading of Glossary and Acronyms %%%
+\makeglossaries
+\loadglsentries{Matter/05-Glossary}
+\loadglsentries[\acronymtype]{Matter/06-Acronyms}
+
+\begin{document}
+
+%%% Front Matter %%%
+\include{Matter/00-Cover}
+\include{Matter/01-Front-Page}
+
+%%% Copyright Statement %%%
+\include{Matter/02-Copyright}
+
+%%% Roman Numeration %%%
+\pagenumbering{roman}
+
+%%% Abstract %%%
+\include{Chapters/00-Abstract}
+
+%%% Table of Contents, List of Figures and List of Tables %%%
+\bookmarktocentry\tableofcontents
+\listoffigures
+\listoftables
+
+%%% Print: Glossary and Acronyms %%%
+\glossarytoc\printnormalglossary
+\acronymtoc\printacronymglossary
+
+%%% Arabic Numeration %%%
+\pagenumbering{arabic}
+
+%%% Chapters (**Insert Yours Here**) %%%
+\include{Chapters/01-Introduction}
+\include{Chapters/02-Marco-Teorico}
+\include{Chapters/03-Analisis-Diseno}
+\include{Chapters/04-Proceso-Diseno}
+\include{Chapters/05-Arquitectura-Sistema}
+\include{Chapters/06-Implementacion}
+
+%%% Bibliography %%%
+\renewcommand{\refname}{Bibliography}
+\printbibliography[title={\refname},heading=bibintoc]
+
+%%% Back Page %%%
+\input{Matter/09-Back-Page}
+
+\end{document}

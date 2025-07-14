@@ -1,0 +1,393 @@
+\chapter{Análisis y Diseño del Sistema}
+\label{cp:analisis-diseno}
+
+Este capítulo presenta el análisis detallado de los requisitos del sitio web corporativo TechSolutions Pro y su diseño basado en la metodología Jesse James Garrett. Se establecen los requisitos funcionales y no funcionales que guían el desarrollo, seguido de la aplicación sistemática de las cinco capas de la metodología para estructurar la solución de manera coherente y centrada en el usuario.
+
+\section{Análisis de Requisitos}
+
+El análisis de requisitos constituye la base fundamental para el desarrollo exitoso del sitio web corporativo. A través de este proceso se identifican y documentan las necesidades específicas que debe satisfacer la aplicación, tanto desde la perspectiva funcional como no funcional.
+
+\subsection{Requisitos Funcionales}
+
+Los requisitos funcionales describen las funcionalidades específicas que debe proporcionar el sitio web TechSolutions Pro para cumplir con sus objetivos corporativos y satisfacer las necesidades de los usuarios.
+
+\subsubsection{RF001 - Presentación de Información Corporativa}
+\textbf{Descripción:} El sistema debe mostrar información completa y actualizada sobre TechSolutions Pro, incluyendo misión, visión, valores, historia y servicios ofrecidos.
+
+\textbf{Criterios de aceptación:}
+\begin{itemize}
+    \item Mostrar misión y visión corporativa de forma prominente
+    \item Presentar historia de la empresa de manera cronológica
+    \item Listar servicios con descripciones detalladas
+    \item Incluir valores corporativos con explicaciones contextuales
+\end{itemize}
+
+\subsubsection{RF002 - Gestión de Información del Equipo}
+\textbf{Descripción:} El sistema debe presentar información detallada del equipo de desarrollo, incluyendo perfiles individuales con especialidades y experiencia.
+
+\textbf{Criterios de aceptación:}
+\begin{itemize}
+    \item Mostrar lista completa del equipo con fotos y roles
+    \item Proporcionar páginas de detalle para cada miembro
+    \item Incluir información de especialidades técnicas
+    \item Presentar experiencia y proyectos relevantes
+\end{itemize}
+
+\subsubsection{RF003 - Sistema de Contacto}
+\textbf{Descripción:} El sistema debe proporcionar un formulario de contacto funcional con validación de campos y confirmación de envío.
+
+\textbf{Criterios de aceptación:}
+\begin{itemize}
+    \item Formulario con campos: nombre, email, asunto, mensaje
+    \item Validación en tiempo real de todos los campos
+    \item Mensajes de error específicos para cada tipo de validación
+    \item Confirmación visual de envío exitoso
+\end{itemize}
+
+\subsubsection{RF004 - Navegación Responsive}
+\textbf{Descripción:} El sistema debe proporcionar navegación fluida y consistente entre todas las páginas, adaptándose a diferentes dispositivos.
+
+\textbf{Criterios de aceptación:}
+\begin{itemize}
+    \item Menú de navegación consistente en todas las páginas
+    \item Navegación responsive para móviles (menú hamburguesa)
+    \item Indicación visual de página activa
+    \item Breadcrumbs para orientación del usuario
+\end{itemize}
+
+\subsubsection{RF005 - Perfiles Detallados del Equipo}
+\textbf{Descripción:} El sistema debe permitir acceso a información detallada de cada miembro del equipo mediante navegación dinámica.
+
+\textbf{Criterios de aceptación:}
+\begin{itemize}
+    \item Páginas individuales para cada miembro del equipo
+    \item URLs dinámicas basadas en identificadores únicos
+    \item Información extendida: biografía, proyectos, tecnologías
+    \item Enlaces de retorno y navegación entre perfiles
+\end{itemize}
+
+\subsubsection{RF006 - Presentación de Servicios y Tecnologías}
+\textbf{Descripción:} El sistema debe mostrar los servicios tecnológicos ofrecidos por la empresa y las tecnologías utilizadas.
+
+\textbf{Criterios de aceptación:}
+\begin{itemize}
+    \item Catálogo de servicios con descripciones detalladas
+    \item Showcase de tecnologías con logotipos y descripciones
+    \item Casos de uso y ejemplos de implementación
+    \item Información de precios o modalidades de contratación
+\end{itemize}
+
+\subsubsection{RF007 - Footer Informativo}
+\textbf{Descripción:} El sistema debe incluir un footer consistente con información de contacto, enlaces útiles y presencia en redes sociales.
+
+\textbf{Criterios de aceptación:}
+\begin{itemize}
+    \item Información de contacto completa (dirección, teléfono, email)
+    \item Enlaces a redes sociales funcionales
+    \item Mapa del sitio con enlaces principales
+    \item Información de derechos de autor y políticas
+\end{itemize}
+
+\subsection{Requisitos No Funcionales}
+
+Los requisitos no funcionales establecen las características de calidad que debe cumplir el sistema en términos de rendimiento, usabilidad, compatibilidad y mantenibilidad.
+
+\subsubsection{RNF001 - Usabilidad}
+\textbf{Descripción:} El sistema debe proporcionar una interfaz intuitiva y fácil de usar para usuarios de diferentes niveles técnicos.
+
+\textbf{Criterios de medición:}
+\begin{itemize}
+    \item Tiempo promedio para completar tareas principales: < 3 minutos
+    \item Tasa de éxito en navegación: > 90\%
+    \item Curva de aprendizaje mínima para usuarios nuevos
+    \item Cumplimiento con principios de usabilidad de Nielsen
+\end{itemize}
+
+\subsubsection{RNF002 - Rendimiento}
+\textbf{Descripción:} El sistema debe cargar rápidamente y responder de manera eficiente a las interacciones del usuario.
+
+\textbf{Criterios de medición:}
+\begin{itemize}
+    \item Tiempo de carga inicial: < 3 segundos
+    \item Tiempo de navegación entre páginas: < 1 segundo
+    \item Tamaño del bundle optimizado: < 2MB
+    \item Score de Lighthouse Performance: > 90
+\end{itemize}
+
+\subsubsection{RNF003 - Responsividad}
+\textbf{Descripción:} El sistema debe funcionar correctamente en dispositivos de diferentes tamaños y resoluciones.
+
+\textbf{Criterios de medición:}
+\begin{itemize}
+    \item Soporte para móviles: 320px - 768px
+    \item Soporte para tablets: 768px - 1024px
+    \item Soporte para desktop: 1024px+
+    \item Funcionalidad completa en todos los breakpoints
+\end{itemize}
+
+\subsubsection{RNF004 - Accesibilidad}
+\textbf{Descripción:} El sistema debe ser accesible para usuarios con diferentes capacidades y necesidades especiales.
+
+\textbf{Criterios de medición:}
+\begin{itemize}
+    \item Cumplimiento con WCAG 2.1 nivel AA
+    \item Soporte para lectores de pantalla
+    \item Navegación completa mediante teclado
+    \item Contraste de colores adecuado (ratio 4.5:1 mínimo)
+\end{itemize}
+
+\subsubsection{RNF005 - Compatibilidad}
+\textbf{Descripción:} El sistema debe funcionar correctamente en los navegadores web más utilizados.
+
+\textbf{Criterios de medición:}
+\begin{itemize}
+    \item Google Chrome (últimas 3 versiones)
+    \item Mozilla Firefox (últimas 3 versiones)
+    \item Safari (últimas 2 versiones)
+    \item Microsoft Edge (últimas 2 versiones)
+\end{itemize}
+
+\subsubsection{RNF006 - Mantenibilidad}
+\textbf{Descripción:} El código del sistema debe ser fácil de mantener, actualizar y extender por desarrolladores.
+
+\textbf{Criterios de medición:}
+\begin{itemize}
+    \item Cobertura de documentación: > 80\%
+    \item Seguimiento de convenciones de Angular Style Guide
+    \item Modularización adecuada de componentes
+    \item Reutilización de código: > 70\%
+\end{itemize}
+
+\subsubsection{RNF007 - SEO (Optimización para Motores de Búsqueda)}
+\textbf{Descripción:} El sistema debe estar optimizado para ser indexado correctamente por motores de búsqueda.
+
+\textbf{Criterios de medición:}
+\begin{itemize}
+    \item Meta tags apropiados en todas las páginas
+    \item Estructura semántica HTML5
+    \item URLs amigables y descriptivas
+    \item Score de Lighthouse SEO: > 90
+\end{itemize}
+
+\section{Aplicación de la Metodología Jesse James Garrett}
+
+La aplicación sistemática de las cinco capas de la metodología Jesse James Garrett proporciona la estructura conceptual y práctica para el desarrollo del sitio web TechSolutions Pro. Cada capa se construye sobre las decisiones de la anterior, asegurando coherencia y alineación con los objetivos establecidos.
+
+\subsection{Capa 1: Strategy (Estrategia)}
+
+La capa de estrategia establece los fundamentos del proyecto, definiendo claramente los objetivos de negocio y las necesidades de los usuarios objetivo.
+
+\subsubsection{Objetivos de Negocio}
+Los objetivos principales de TechSolutions Pro a través de su sitio web corporativo son:
+
+\begin{itemize}
+    \item \textbf{Posicionamiento de marca}: Establecer TechSolutions Pro como líder en soluciones tecnológicas innovadoras
+    \item \textbf{Generación de leads}: Captar potenciales clientes interesados en servicios tecnológicos
+    \item \textbf{Showcase de competencias}: Demostrar capacidades técnicas y experiencia del equipo
+    \item \textbf{Credibilidad profesional}: Proyectar imagen de empresa confiable y establecida
+    \item \textbf{Atracción de talento}: Atraer profesionales calificados para unirse al equipo
+\end{itemize}
+
+\subsubsection{Audiencia Objetivo}
+El análisis de audiencia identifica tres segmentos principales:
+
+\begin{itemize}
+    \item \textbf{Clientes potenciales}: Empresas que buscan soluciones tecnológicas personalizadas
+    \item \textbf{Partners comerciales}: Otras empresas interesadas en colaboraciones estratégicas
+    \item \textbf{Candidatos}: Profesionales en tecnología que buscan oportunidades laborales
+\end{itemize}
+
+\subsubsection{Análisis Competitivo}
+El análisis del entorno competitivo revela oportunidades de diferenciación:
+
+\begin{itemize}
+    \item Competidores locales con presencia web limitada
+    \item Empresas internacionales con sitios complejos pero poco personalizados
+    \item Oportunidad de destacar mediante experiencia de usuario superior
+    \item Diferenciación a través de transparencia en el equipo y procesos
+\end{itemize}
+
+\subsubsection{Propuesta de Valor}
+TechSolutions Pro se diferencia mediante:
+
+\begin{itemize}
+    \item Equipo multidisciplinario con experiencia demostrable
+    \item Enfoque en tecnologías modernas y metodologías probadas
+    \item Transparencia en procesos y comunicación directa
+    \item Soluciones personalizadas adaptadas a necesidades específicas
+\end{itemize}
+
+\subsection{Capa 2: Scope (Alcance)}
+
+La capa de alcance traduce la estrategia en especificaciones concretas sobre funcionalidades y contenido del sitio web.
+
+\subsubsection{Especificaciones Funcionales}
+Las funcionalidades principales identificadas incluyen:
+
+\begin{itemize}
+    \item \textbf{Navegación principal}: Sistema de menú responsive con acceso a todas las secciones
+    \item \textbf{Formulario de contacto}: Captura de leads con validación robusta
+    \item \textbf{Perfiles del equipo}: Presentación detallada de cada miembro
+    \item \textbf{Showcase de servicios}: Catálogo interactivo de ofertas tecnológicas
+\end{itemize}
+
+\subsubsection{Requerimientos de Contenido}
+El contenido necesario se organiza en las siguientes categorías:
+
+\begin{itemize}
+    \item \textbf{Contenido corporativo}: Misión, visión, valores, historia
+    \item \textbf{Información del equipo}: Biografías, especialidades, proyectos
+    \item \textbf{Portafolio de servicios}: Descripciones técnicas, casos de uso
+    \item \textbf{Recursos visuales}: Fotografías profesionales, logotipos, iconografía
+\end{itemize}
+
+\subsubsection{Priorización de Características}
+Las funcionalidades se clasifican según su importancia estratégica:
+
+\begin{itemize}
+    \item \textbf{Críticas}: Navegación, información corporativa, formulario de contacto
+    \item \textbf{Importantes}: Perfiles del equipo, showcase de tecnologías
+    \item \textbf{Deseables}: Blog corporativo, testimonios de clientes, chatbot
+\end{itemize}
+
+\subsubsection{Constraints y Limitaciones}
+Las restricciones del proyecto incluyen:
+
+\begin{itemize}
+    \item \textbf{Temporales}: Desarrollo en un semestre académico
+    \item \textbf{Tecnológicas}: Uso obligatorio de Angular 19 y metodología Garrett
+    \item \textbf{Presupuestarias}: Sin costos de hosting o servicios externos
+    \item \textbf{Académicas}: Enfoque en demostración de competencias técnicas
+\end{itemize}
+
+\subsection{Capa 3: Structure (Estructura)}
+
+La capa de estructura organiza la información y define las interacciones del usuario con el sistema.
+
+\subsubsection{Arquitectura de Información}
+La estructura del sitio se organiza jerárquicamente:
+
+\begin{itemize}
+    \item \textbf{Nivel 1}: Home (página principal)
+    \item \textbf{Nivel 2}: About, Team, Contact (páginas principales)
+    \item \textbf{Nivel 3}: Team Details (páginas de detalle dinámicas)
+\end{itemize}
+
+\subsubsection{Mapa del Sitio}
+La navegación sigue la siguiente estructura:
+
+\begin{itemize}
+    \item \textbf{Home} → Página de inicio con overview general
+    \item \textbf{About} → Información corporativa completa
+    \item \textbf{Team} → Lista de miembros del equipo
+    \item \textbf{Team Detail} → Perfiles individuales (dinámicos)
+    \item \textbf{Contact} → Formulario y información de contacto
+\end{itemize}
+
+\subsubsection{Flujos de Usuario}
+Los principales flujos de navegación identificados son:
+
+\begin{itemize}
+    \item \textbf{Flujo de información}: Home → About → Contact
+    \item \textbf{Flujo de equipo}: Home → Team → Team Detail → Contact
+    \item \textbf{Flujo de contacto directo}: Cualquier página → Contact
+\end{itemize}
+
+\subsubsection{Diseño de Interacción}
+Las interacciones principales incluyen:
+
+\begin{itemize}
+    \item Navegación mediante clicks en menú principal
+    \item Hover effects en elementos interactivos
+    \item Validación en tiempo real en formularios
+    \item Transiciones suaves entre páginas
+\end{itemize}
+
+\subsection{Capa 4: Skeleton (Esqueleto)}
+
+La capa de esqueleto define la disposición y priorización de elementos en cada página.
+
+\subsubsection{Wireframes de Páginas Principales}
+Cada página cuenta con wireframes específicos que definen:
+
+\begin{itemize}
+    \item \textbf{Home}: Hero section, servicios destacados, call-to-action
+    \item \textbf{About}: Timeline de historia, misión/visión, valores
+    \item \textbf{Team}: Grid de miembros, filtros por especialidad
+    \item \textbf{Team Detail}: Perfil completo, habilidades, experiencia
+    \item \textbf{Contact}: Formulario, mapa, información de ubicación
+\end{itemize}
+
+\subsubsection{Diseño de Navegación}
+El sistema de navegación incluye:
+
+\begin{itemize}
+    \item Header fijo con logo y menú principal
+    \item Menú hamburguesa para dispositivos móviles
+    \item Breadcrumbs para orientación contextual
+    \item Footer con enlaces secundarios y redes sociales
+\end{itemize}
+
+\subsubsection{Layout Responsive}
+La estructura responsive se adapta mediante:
+
+\begin{itemize}
+    \item Grids flexibles que se reorganizan según el viewport
+    \item Flexbox para alineación y distribución de elementos
+    \item Breakpoints definidos para móvil, tablet y desktop
+    \item Imágenes y media escalables
+\end{itemize}
+
+\subsubsection{Elementos de Interfaz}
+Los componentes de UI principales incluyen:
+
+\begin{itemize}
+    \item Botones con estados hover y active
+    \item Cards para presentación de información
+    \item Inputs con validación visual
+    \item Modales para información adicional
+\end{itemize}
+
+\subsection{Capa 5: Surface (Superficie)}
+
+La capa de superficie define los aspectos visuales y sensoriales de la experiencia del usuario.
+
+\subsubsection{Diseño Visual}
+El diseño visual se caracteriza por:
+
+\begin{itemize}
+    \item Paleta de colores corporativa con gradientes púrpura-azul
+    \item Tipografía moderna y legible (Inter font family)
+    \item Espaciado consistente basado en sistema de grillas
+    \item Iconografía coherente utilizando Font Awesome
+\end{itemize}
+
+\subsubsection{Paleta de Colores}
+Los colores principales del sitio incluyen:
+
+\begin{itemize}
+    \item \textbf{Primarios}: Gradientes de púrpura (\#6366f1) a azul (\#3b82f6)
+    \item \textbf{Secundarios}: Grises para texto y fondos (\#64748b, \#f1f5f9)
+    \item \textbf{Acentos}: Verde para éxito (\#10b981), rojo para errores (\#ef4444)
+\end{itemize}
+
+\subsubsection{Tipografía}
+La jerarquía tipográfica establece:
+
+\begin{itemize}
+    \item \textbf{Headings}: Inter Bold en tamaños escalonados (h1: 2.5rem, h2: 2rem, etc.)
+    \item \textbf{Body text}: Inter Regular 1rem con line-height 1.6
+    \item \textbf{UI text}: Inter Medium para botones y elementos interactivos
+\end{itemize}
+
+\subsubsection{Iconografía}
+El sistema de iconos incluye:
+
+\begin{itemize}
+    \item Font Awesome para iconos funcionales
+    \item Iconos de tecnologías (Angular, TypeScript, etc.)
+    \item Iconos de redes sociales consistentes
+    \item Tamaños estandarizados (16px, 24px, 32px)
+\end{itemize}
+
+La aplicación sistemática de la metodología Jesse James Garrett asegura que cada decisión de diseño esté fundamentada en objetivos claros y necesidades identificadas, resultando en una experiencia de usuario coherente y efectiva para el sitio web corporativo TechSolutions Pro.

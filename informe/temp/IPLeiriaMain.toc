@@ -1,0 +1,121 @@
+\babel@toc {english}{}\relax 
+\contentsline {frontmatter}{List of Figures}{ix}{listoffigures}%
+\contentsline {frontmatter}{List of Tables}{xi}{listoftables}%
+\contentsline {frontmatter}{Glossary}{xiii}{glossary}%
+\contentsline {frontmatter}{Acronyms}{xv}{acronym}%
+\contentsline {chapter}{\numberline {1}Introducción}{1}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Contexto}{1}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Problemática}{2}{section.1.2}%
+\contentsline {section}{\numberline {1.3}Justificación}{2}{section.1.3}%
+\contentsline {section}{\numberline {1.4}Objetivo General}{2}{section.1.4}%
+\contentsline {section}{\numberline {1.5}Objetivos Específicos}{3}{section.1.5}%
+\contentsline {section}{\numberline {1.6}Alcance}{3}{section.1.6}%
+\contentsline {section}{\numberline {1.7}Limitaciones}{3}{section.1.7}%
+\contentsline {chapter}{\numberline {2}Marco Teórico}{5}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Metodología Jesse James Garrett}{5}{section.2.1}%
+\contentsline {subsection}{\numberline {2.1.1}Contexto Histórico y Fundamentos}{5}{subsection.2.1.1}%
+\contentsline {subsection}{\numberline {2.1.2}Las Cinco Capas de la Metodología}{5}{subsection.2.1.2}%
+\contentsline {subsubsection}{Capa 1: Strategy (Estrategia)}{6}{subsubsection*.6}%
+\contentsline {subsubsection}{Capa 2: Scope (Alcance)}{6}{subsubsection*.7}%
+\contentsline {subsubsection}{Capa 3: Structure (Estructura)}{6}{subsubsection*.8}%
+\contentsline {subsubsection}{Capa 4: Skeleton (Esqueleto)}{7}{subsubsection*.9}%
+\contentsline {subsubsection}{Capa 5: Surface (Superficie)}{7}{subsubsection*.10}%
+\contentsline {subsection}{\numberline {2.1.3}Ventajas y Beneficios de la Metodología}{7}{subsection.2.1.3}%
+\contentsline {subsection}{\numberline {2.1.4}Aplicación en Desarrollo Web Moderno}{7}{subsection.2.1.4}%
+\contentsline {section}{\numberline {2.2}Angular 19 y Tecnologías Asociadas}{8}{section.2.2}%
+\contentsline {subsection}{\numberline {2.2.1}Angular 19: Framework para Aplicaciones Web Modernas}{8}{subsection.2.2.1}%
+\contentsline {subsubsection}{Características Principales de Angular 19}{8}{subsubsection*.11}%
+\contentsline {subsubsection}{Componentes Standalone}{8}{subsubsection*.12}%
+\contentsline {subsection}{\numberline {2.2.2}TypeScript: Lenguaje de Programación}{8}{subsection.2.2.2}%
+\contentsline {subsection}{\numberline {2.2.3}SCSS: Preprocesador de CSS}{9}{subsection.2.2.3}%
+\contentsline {subsection}{\numberline {2.2.4}Reactive Forms: Gestión de Formularios}{9}{subsection.2.2.4}%
+\contentsline {subsection}{\numberline {2.2.5}Angular Router: Navegación y Enrutamiento}{9}{subsection.2.2.5}%
+\contentsline {subsection}{\numberline {2.2.6}RxJS: Programación Reactiva}{9}{subsection.2.2.6}%
+\contentsline {section}{\numberline {2.3}Integración de Metodología UX y Tecnología}{9}{section.2.3}%
+\contentsline {chapter}{\numberline {3}Análisis y Diseño del Sistema}{11}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Análisis de Requisitos}{11}{section.3.1}%
+\contentsline {subsection}{\numberline {3.1.1}Requisitos Funcionales}{11}{subsection.3.1.1}%
+\contentsline {subsubsection}{RF001 - Presentación de Información Corporativa}{11}{subsubsection*.13}%
+\contentsline {subsubsection}{RF002 - Gestión de Información del Equipo}{12}{subsubsection*.14}%
+\contentsline {subsubsection}{RF003 - Sistema de Contacto}{12}{subsubsection*.15}%
+\contentsline {subsubsection}{RF004 - Navegación Responsive}{12}{subsubsection*.16}%
+\contentsline {subsubsection}{RF005 - Perfiles Detallados del Equipo}{12}{subsubsection*.17}%
+\contentsline {subsubsection}{RF006 - Presentación de Servicios y Tecnologías}{13}{subsubsection*.18}%
+\contentsline {subsubsection}{RF007 - Footer Informativo}{13}{subsubsection*.19}%
+\contentsline {subsection}{\numberline {3.1.2}Requisitos No Funcionales}{13}{subsection.3.1.2}%
+\contentsline {subsubsection}{RNF001 - Usabilidad}{13}{subsubsection*.20}%
+\contentsline {subsubsection}{RNF002 - Rendimiento}{13}{subsubsection*.21}%
+\contentsline {subsubsection}{RNF003 - Responsividad}{14}{subsubsection*.22}%
+\contentsline {subsubsection}{RNF004 - Accesibilidad}{14}{subsubsection*.23}%
+\contentsline {subsubsection}{RNF005 - Compatibilidad}{14}{subsubsection*.24}%
+\contentsline {subsubsection}{RNF006 - Mantenibilidad}{14}{subsubsection*.25}%
+\contentsline {subsubsection}{RNF007 - SEO (Optimización para Motores de Búsqueda)}{15}{subsubsection*.26}%
+\contentsline {section}{\numberline {3.2}Aplicación de la Metodología Jesse James Garrett}{15}{section.3.2}%
+\contentsline {subsection}{\numberline {3.2.1}Capa 1: Strategy (Estrategia)}{15}{subsection.3.2.1}%
+\contentsline {subsubsection}{Objetivos de Negocio}{15}{subsubsection*.27}%
+\contentsline {subsubsection}{Audiencia Objetivo}{15}{subsubsection*.28}%
+\contentsline {subsubsection}{Análisis Competitivo}{16}{subsubsection*.29}%
+\contentsline {subsubsection}{Propuesta de Valor}{16}{subsubsection*.30}%
+\contentsline {subsection}{\numberline {3.2.2}Capa 2: Scope (Alcance)}{16}{subsection.3.2.2}%
+\contentsline {subsubsection}{Especificaciones Funcionales}{16}{subsubsection*.31}%
+\contentsline {subsubsection}{Requerimientos de Contenido}{16}{subsubsection*.32}%
+\contentsline {subsubsection}{Priorización de Características}{16}{subsubsection*.33}%
+\contentsline {subsubsection}{Constraints y Limitaciones}{17}{subsubsection*.34}%
+\contentsline {subsection}{\numberline {3.2.3}Capa 3: Structure (Estructura)}{17}{subsection.3.2.3}%
+\contentsline {subsubsection}{Arquitectura de Información}{17}{subsubsection*.35}%
+\contentsline {subsubsection}{Mapa del Sitio}{17}{subsubsection*.36}%
+\contentsline {subsubsection}{Flujos de Usuario}{17}{subsubsection*.37}%
+\contentsline {subsubsection}{Diseño de Interacción}{17}{subsubsection*.38}%
+\contentsline {subsection}{\numberline {3.2.4}Capa 4: Skeleton (Esqueleto)}{18}{subsection.3.2.4}%
+\contentsline {subsubsection}{Wireframes de Páginas Principales}{18}{subsubsection*.39}%
+\contentsline {subsubsection}{Diseño de Navegación}{18}{subsubsection*.40}%
+\contentsline {subsubsection}{Layout Responsive}{18}{subsubsection*.41}%
+\contentsline {subsubsection}{Elementos de Interfaz}{18}{subsubsection*.42}%
+\contentsline {subsection}{\numberline {3.2.5}Capa 5: Surface (Superficie)}{18}{subsection.3.2.5}%
+\contentsline {subsubsection}{Diseño Visual}{19}{subsubsection*.43}%
+\contentsline {subsubsection}{Paleta de Colores}{19}{subsubsection*.44}%
+\contentsline {subsubsection}{Tipografía}{19}{subsubsection*.45}%
+\contentsline {subsubsection}{Iconografía}{19}{subsubsection*.46}%
+\contentsline {chapter}{\numberline {4}Proceso de Diseño}{20}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Wireframes}{20}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Prototipos de Baja Fidelidad}{20}{section.4.2}%
+\contentsline {section}{\numberline {4.3}Mockups de Alta Fidelidad}{21}{section.4.3}%
+\contentsline {section}{\numberline {4.4}Prototipos de Alta Fidelidad}{21}{section.4.4}%
+\contentsline {chapter}{\numberline {5}Arquitectura del Sistema}{23}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Arquitectura General}{23}{section.5.1}%
+\contentsline {subsection}{\numberline {5.1.1}Componentes Principales}{23}{subsection.5.1.1}%
+\contentsline {section}{\numberline {5.2}Tecnologías Utilizadas}{23}{section.5.2}%
+\contentsline {subsection}{\numberline {5.2.1}Frontend}{23}{subsection.5.2.1}%
+\contentsline {subsection}{\numberline {5.2.2}Herramientas de Desarrollo}{24}{subsection.5.2.2}%
+\contentsline {section}{\numberline {5.3}Estructura de Directorios}{24}{section.5.3}%
+\contentsline {section}{\numberline {5.4}Patrones de Diseño}{24}{section.5.4}%
+\contentsline {subsection}{\numberline {5.4.1}Arquitectura Basada en Componentes}{24}{subsection.5.4.1}%
+\contentsline {subsection}{\numberline {5.4.2}Separación de Responsabilidades}{24}{subsection.5.4.2}%
+\contentsline {section}{\numberline {5.5}Metodología Jesse James Garrett - Capa de Esqueleto}{25}{section.5.5}%
+\contentsline {chapter}{\numberline {6}Implementación}{26}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Configuración del Entorno de Desarrollo}{26}{section.6.1}%
+\contentsline {subsection}{\numberline {6.1.1}Instalación de Angular 19}{26}{subsection.6.1.1}%
+\contentsline {subsection}{\numberline {6.1.2}Estructura del Proyecto}{26}{subsection.6.1.2}%
+\contentsline {section}{\numberline {6.2}Desarrollo de Componentes}{27}{section.6.2}%
+\contentsline {subsection}{\numberline {6.2.1}Componente Header}{27}{subsection.6.2.1}%
+\contentsline {subsection}{\numberline {6.2.2}Componente Footer}{28}{subsection.6.2.2}%
+\contentsline {section}{\numberline {6.3}Implementación de Páginas}{29}{section.6.3}%
+\contentsline {subsection}{\numberline {6.3.1}Página de Inicio}{29}{subsection.6.3.1}%
+\contentsline {subsection}{\numberline {6.3.2}Página de Contacto con Formularios Reactivos}{30}{subsection.6.3.2}%
+\contentsline {section}{\numberline {6.4}Estilos y Diseño Responsivo}{31}{section.6.4}%
+\contentsline {subsection}{\numberline {6.4.1}Variables SCSS}{31}{subsection.6.4.1}%
+\contentsline {subsection}{\numberline {6.4.2}Mixins Responsivos}{32}{subsection.6.4.2}%
+\contentsline {section}{\numberline {6.5}Configuración de Rutas}{32}{section.6.5}%
+\contentsline {section}{\numberline {6.6}Servicios y Gestión de Datos}{33}{section.6.6}%
+\contentsline {subsection}{\numberline {6.6.1}Servicio de Datos}{33}{subsection.6.6.1}%
+\contentsline {section}{\numberline {6.7}Optimización y Performance}{34}{section.6.7}%
+\contentsline {subsection}{\numberline {6.7.1}Lazy Loading}{34}{subsection.6.7.1}%
+\contentsline {subsection}{\numberline {6.7.2}Optimización de Imágenes}{34}{subsection.6.7.2}%
+\contentsline {section}{\numberline {6.8}Testing y Validación}{35}{section.6.8}%
+\contentsline {subsection}{\numberline {6.8.1}Pruebas Unitarias}{35}{subsection.6.8.1}%
+\contentsline {section}{\numberline {6.9}Build y Despliegue}{35}{section.6.9}%
+\contentsline {subsection}{\numberline {6.9.1}Configuración de Producción}{35}{subsection.6.9.1}%
+\contentsline {subsection}{\numberline {6.9.2}Integración con la Metodología de Jesse James Garrett}{36}{subsection.6.9.2}%
+\contentsline {section}{\numberline {6.10}Métricas de Implementación}{36}{section.6.10}%
+\contentsline {subsection}{\numberline {6.10.1}Rendimiento Logrado}{36}{subsection.6.10.1}%
+\contentsline {subsection}{\numberline {6.10.2}Funcionalidades Implementadas}{36}{subsection.6.10.2}%

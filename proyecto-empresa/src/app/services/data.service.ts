@@ -10,39 +10,39 @@ export class DataService {
   private teamMembers: TeamMember[] = [
     {
       id: 1,
-      name: 'Ana María González',
-      role: 'Full Stack Developer & Team Lead',
-      technologies: ['Angular', 'Node.js', 'TypeScript', 'MongoDB', 'AWS'],
-      photo: 'assets/images/team/ana-gonzalez.jpg',
-      description: 'Desarrolladora Full Stack con más de 7 años de experiencia en tecnologías web modernas. Especializada en arquitecturas escalables y liderazgo de equipos ágiles.',
-      email: 'ana.gonzalez@techsolutions.com',
-      linkedin: 'https://linkedin.com/in/ana-maria-gonzalez',
-      github: 'https://github.com/ana-gonzalez',
-      experience: 7
+      name: 'Alvina Antar',
+      role: 'CEO & Chief Executive Officer',
+      technologies: ['AI Strategy', 'Business Development', 'Customer Relations', 'Startup Advisory', 'Digital Transformation'],
+      photo: '/alvina_antar.jpeg',
+      description: 'Líder visionaria especializada en estrategia de AI y relaciones con clientes. Asesora empresas emergentes de IA y seguridad, miembro del consejo de Couchbase. Cofundadora de la Red de Mujeres CIO de Silicon Valley.',
+      email: 'alvina.antar@techsolutions.com',
+      linkedin: 'https://linkedin.com/in/alvina-antar',
+      github: 'https://github.com/alvina-antar',
+      experience: 15
     },
     {
       id: 2,
-      name: 'Carlos Eduardo Ramírez',
-      role: 'Frontend Developer & UX/UI Specialist',
-      technologies: ['React', 'Vue.js', 'Angular', 'Figma', 'CSS3', 'JavaScript'],
-      photo: 'assets/images/team/carlos-ramirez.jpg',
-      description: 'Especialista en desarrollo frontend y experiencia de usuario. Apasionado por crear interfaces intuitivas y accesibles que mejoren la experiencia del usuario.',
-      email: 'carlos.ramirez@techsolutions.com',
-      linkedin: 'https://linkedin.com/in/carlos-eduardo-ramirez',
-      github: 'https://github.com/carlos-ramirez',
-      experience: 5
+      name: 'Gabriel Murillo',
+      role: 'CTO & Chief Technology Officer',
+      technologies: ['Cloud Architecture', 'Microservices', 'AI/ML', 'DevOps', 'System Design', 'Angular', 'Node.js'],
+      photo: '/gabriel.jpeg',
+      description: 'Visionario tecnológico con 12 años de experiencia en arquitectura de software y liderazgo técnico. Especializado en transformación digital, AI/ML y soluciones cloud-native escalables.',
+      email: 'gabriel.murillo@techsolutions.com',
+      linkedin: 'https://linkedin.com/in/gabriel-murillo',
+      github: 'https://github.com/gabriel-murillo',
+      experience: 12
     },
     {
       id: 3,
-      name: 'María José Herrera',
-      role: 'Backend Developer & DevOps Engineer',
-      technologies: ['Python', 'Django', 'PostgreSQL', 'Docker', 'Kubernetes', 'Jenkins'],
-      photo: 'assets/images/team/maria-herrera.jpg',
-      description: 'Ingeniera de software especializada en desarrollo backend y operaciones. Experta en automatización de procesos y implementación de arquitecturas cloud-native.',
-      email: 'maria.herrera@techsolutions.com',
-      linkedin: 'https://linkedin.com/in/maria-jose-herrera',
-      github: 'https://github.com/maria-herrera',
-      experience: 6
+      name: 'Pablo Zurita',
+      role: 'COO & Chief Operating Officer',
+      technologies: ['Operations Management', 'Agile Methodologies', 'Project Management', 'Business Intelligence', 'Process Optimization'],
+      photo: '/pablo.jpeg',
+      description: 'Ejecutivo dinámico especializado en operaciones y gestión empresarial. Experto en optimización de procesos, metodologías ágiles y transformación de operaciones tecnológicas.',
+      email: 'pablo.zurita@techsolutions.com',
+      linkedin: 'https://linkedin.com/in/pablo-zurita',
+      github: 'https://github.com/pablo-zurita',
+      experience: 10
     }
   ];
 

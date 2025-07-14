@@ -635,6 +635,9 @@ INPUT Chapters\05-Arquitectura-Sistema.aux
 INPUT .\Chapters\06-Implementacion.aux
 INPUT .\Chapters\06-Implementacion.aux
 INPUT Chapters\06-Implementacion.aux
+INPUT .\Chapters\07-Conclusiones.aux
+INPUT .\Chapters\07-Conclusiones.aux
+INPUT Chapters\07-Conclusiones.aux
 OUTPUT IPLeiriaMain.aux
 INPUT C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex\latex\newpx\omlnpxmi.fd
 INPUT C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex\latex\newpx\omlnpxmi.fd
@@ -885,6 +888,12 @@ INPUT C:\Users\gamur\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newpx\zplexa
 INPUT C:\Users\gamur\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newpx\zplexa.tfm
 INPUT C:\Users\gamur\AppData\Local\Programs\MiKTeX\fonts\vf\public\newpx\zplsym.vf
 INPUT C:\Users\gamur\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntxsym.tfm
+INPUT .\Chapters\07-Conclusiones.tex
+INPUT .\Chapters\07-Conclusiones.tex
+OUTPUT Chapters\07-Conclusiones.aux
+INPUT .\Chapters\07-Conclusiones.tex
+INPUT .\Chapters\07-Conclusiones.tex
+INPUT Chapters\07-Conclusiones.tex
 INPUT .\Matter\09-Back-Page.tex
 INPUT .\Matter\09-Back-Page.tex
 INPUT .\Matter\09-Back-Page.tex
@@ -927,6 +936,9 @@ INPUT Chapters\05-Arquitectura-Sistema.aux
 INPUT .\Chapters\06-Implementacion.aux
 INPUT .\Chapters\06-Implementacion.aux
 INPUT Chapters\06-Implementacion.aux
+INPUT .\Chapters\07-Conclusiones.aux
+INPUT .\Chapters\07-Conclusiones.aux
+INPUT Chapters\07-Conclusiones.aux
 INPUT .\IPLeiriaMain.out
 INPUT .\IPLeiriaMain.out
 INPUT IPLeiriaMain.run.xml

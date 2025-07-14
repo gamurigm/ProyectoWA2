@@ -12,13 +12,27 @@ export class DataService {
       id: 1,
       name: 'Alvina Antar',
       role: 'CEO & Chief Executive Officer',
-      technologies: ['AI Strategy', 'Business Development', 'Customer Relations', 'Startup Advisory', 'Digital Transformation'],
+      technologies: ['AI Strategy', 'Digital Transformation', 'Business Development', 'Customer Relations', 'Enterprise Technology'],
       photo: '/alvina_antar.jpeg',
-      description: 'Líder visionaria especializada en estrategia de AI y relaciones con clientes. Asesora empresas emergentes de IA y seguridad, miembro del consejo de Couchbase. Cofundadora de la Red de Mujeres CIO de Silicon Valley.',
+      description: 'CEO visionaria en AI y estrategia empresarial. Consejera de Couchbase y cofundadora de Red de Mujeres CIO.',
       email: 'alvina.antar@techsolutions.com',
-      linkedin: 'https://linkedin.com/in/alvina-antar',
-      github: 'https://github.com/alvina-antar',
-      experience: 15
+      linkedin: 'https://ec.linkedin.com/company/techsolutions',
+      github: 'https://github.com/techsolutions-pro',
+      instagram: 'https://www.instagram.com/techsolutionscr/',
+      facebook: 'https://www.facebook.com/TechSolutionsIncDE',
+      twitter: 'http://x.com/techsolutionsde',
+      experience: 25,
+      fullBio: 'Alvina Antar es la CEO y fundadora de TechSolutions Pro, donde lidera la transformación digital de la empresa e impulsa su evolución hacia una compañía que prioriza los datos y la inteligencia artificial. Con más de 25 años de experiencia, es una líder visionaria conocida por crear equipos diversos y de alto rendimiento, centrados en la innovación a través de tecnologías disruptivas. Antes de fundar TechSolutions Pro, Alvina pasó cuatro años como CIO en Okta, donde defendió la seguridad basada en la identidad y ayudó a escalar el negocio. Anteriormente, se desempeñó como la primera CIO de Zuora, donde construyó una moderna organización de tecnología empresarial y guió a la empresa a través de una exitosa IPO. Comenzó su carrera como ingeniera de software en Dell, donde pasó 17 años liderando la integración de fusiones y adquisiciones. Como líder impulsada por un propósito, Alvina crea relaciones significativas como voz del cliente, combinando la agilidad de una startup con la escala empresarial. Asesora a varias empresas emergentes de inteligencia artificial y seguridad (SGNL, SquareX y Olakai) y forma parte del consejo directivo de Couchbase. También está profundamente comprometida con el avance de las mujeres en la tecnología y el empoderamiento de los jóvenes con escasos recursos. Alvina cofundó la Red de Mujeres CIO de Silicon Valley y forma parte del consejo asesor de BUILD. Es licenciada en Ciencias de la Computación por la Universidad de Houston.',
+      specialization: 'Transformación Digital y Estrategia de IA',
+      achievements: [
+        'CEO y Fundadora de TechSolutions Pro',
+        'Ex-CIO de Okta por 4 años',
+        'Primera CIO de Zuora, guió IPO exitosa',
+        '17 años en Dell liderando M&A',
+        'Consejera de Couchbase',
+        'Cofundadora Red de Mujeres CIO Silicon Valley',
+        'Asesora de empresas de IA: SGNL, SquareX, Olakai'
+      ]
     },
     {
       id: 2,
@@ -28,8 +42,11 @@ export class DataService {
       photo: '/gabriel.jpeg',
       description: 'Visionario tecnológico con 12 años de experiencia en arquitectura de software y liderazgo técnico. Especializado en transformación digital, AI/ML y soluciones cloud-native escalables.',
       email: 'gabriel.murillo@techsolutions.com',
-      linkedin: 'https://linkedin.com/in/gabriel-murillo',
-      github: 'https://github.com/gabriel-murillo',
+      linkedin: 'https://ec.linkedin.com/company/techsolutions',
+      github: 'https://github.com/techsolutions-pro',
+      instagram: 'https://www.instagram.com/techsolutionscr/',
+      facebook: 'https://www.facebook.com/TechSolutionsIncDE',
+      twitter: 'http://x.com/techsolutionsde',
       experience: 12
     },
     {
@@ -40,8 +57,11 @@ export class DataService {
       photo: '/pablo.jpeg',
       description: 'Ejecutivo dinámico especializado en operaciones y gestión empresarial. Experto en optimización de procesos, metodologías ágiles y transformación de operaciones tecnológicas.',
       email: 'pablo.zurita@techsolutions.com',
-      linkedin: 'https://linkedin.com/in/pablo-zurita',
-      github: 'https://github.com/pablo-zurita',
+      linkedin: 'https://ec.linkedin.com/company/techsolutions',
+      github: 'https://github.com/techsolutions-pro',
+      instagram: 'https://www.instagram.com/techsolutionscr/',
+      facebook: 'https://www.facebook.com/TechSolutionsIncDE',
+      twitter: 'http://x.com/techsolutionsde',
       experience: 10
     }
   ];

@@ -16,17 +16,20 @@ import { RouterLink } from '@angular/router';
               <p>Transformando ideas en soluciones digitales innovadoras</p>
             </div>
             <div class="social-links">
-              <a href="#" class="social-link" aria-label="LinkedIn">
+              <a href="https://ec.linkedin.com/company/techsolutions" class="social-link" aria-label="LinkedIn" target="_blank">
                 <i class="fab fa-linkedin-in"></i>
               </a>
-              <a href="#" class="social-link" aria-label="GitHub">
+              <a href="https://github.com/techsolutions-pro" class="social-link" aria-label="GitHub" target="_blank">
                 <i class="fab fa-github"></i>
               </a>
-              <a href="#" class="social-link" aria-label="Twitter">
-                <i class="fab fa-twitter"></i>
+              <a href="http://x.com/techsolutionsde" class="social-link" aria-label="Twitter/X" target="_blank">
+                <i class="fab fa-x-twitter"></i>
               </a>
-              <a href="#" class="social-link" aria-label="Instagram">
+              <a href="https://www.instagram.com/techsolutionscr/" class="social-link" aria-label="Instagram" target="_blank">
                 <i class="fab fa-instagram"></i>
+              </a>
+              <a href="https://www.facebook.com/TechSolutionsIncDE" class="social-link" aria-label="Facebook" target="_blank">
+                <i class="fab fa-facebook-f"></i>
               </a>
             </div>
           </div>

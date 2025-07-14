@@ -1,0 +1,61 @@
+# LaTeX auxiliary files
+*.aux
+*.lof
+*.log
+*.lot
+*.fls
+*.out
+*.toc
+*.fmt
+*.fot
+*.cb
+*.cb2
+.*.lb
+
+# LaTeX intermediate files
+*.dvi
+*.xdv
+
+# LaTeX build tool auxiliary files
+*.fdb_latexmk
+*.fls
+*.figlist
+*.makefile
+*.xdy
+
+# Bibliography auxiliary files
+*.bbl
+*.bcf
+*.blg
+*-blx.aux
+*-blx.bib
+*.run.xml
+
+# Build tool auxiliary files
+*.synctex
+*.synctex.gz
+*.pdfsync
+
+# Glossaries
+*.acn
+*.acr
+*.glg
+*.glo
+*.gls
+*.glsdefs
+
+# Minted
+_minted*
+*.pyg
+*.data.minted
+
+# Carpetas de archivos temporales creadas por compile-clean.bat
+temp/
+build/
+
+# Archivos de backup
+*-backup.*
+*.backup
+
+# Mantener solo archivos fuente y PDF final
+# El PDF final se mantiene para descargas

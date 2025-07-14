@@ -1,0 +1,197 @@
+# LaTeX auxiliary files
+*.aux
+*.lof
+*.log
+*.lot
+*.fls
+*.out
+*.toc
+*.fmt
+*.fot
+*.cb
+*.cb2
+.*.lb
+
+# LaTeX intermediate files
+*.dvi
+*.xdv
+*-converted-to.*
+# these rules might exclude image files for figures etc.
+# *.ps
+# *.eps
+# *.pdf
+
+# LaTeX build tool auxiliary files
+*.fdb_latexmk
+*.fls
+*.figlist
+*.makefile
+*.xdy
+
+# Bibliography auxiliary files (bibtex/biblatex/biber)
+*.bbl
+*.bcf
+*.blg
+*-blx.aux
+*-blx.bib
+*.run.xml
+
+# Build tool auxiliary files
+*.synctex
+*.synctex(busy)
+*.synctex.gz
+*.synctex.gz(busy)
+*.pdfsync
+
+# Glossaries
+*.acn
+*.acr
+*.glg
+*.glo
+*.gls
+*.glsdefs
+*.lzo
+*.lzs
+*.slg
+*.slo
+*.sls
+
+# Hyperref
+*.brf
+
+# Knitr
+*-concordance.tex
+# TODO Comment the next line if you want to keep your tikz graphics files
+*.figlist
+*.makefile
+*.xdy
+
+# Listings
+*.lol
+
+# Makeindex
+*.idx
+*.ilg
+*.ind
+
+# Minitoc
+*.maf
+*.mlf
+*.mlt
+*.mtc[0-9]*
+*.slf[0-9]*
+*.slt[0-9]*
+*.stc[0-9]*
+
+# Minted
+_minted*
+*.pyg
+*.data.minted
+
+# Morewrites
+*.mw
+
+# Nomencl
+*.nlg
+*.nlo
+*.nls
+
+# Pax
+*.pax
+
+# Pdfpages
+*.pdf_tex
+
+# Sagetex
+*.sagetex.sage
+*.sagetex.py
+*.sagetex.scmd
+
+# Scrwfile
+*.wrt
+
+# Sympy
+*.upa
+*.upb
+
+# TikZ & PGF
+*.auxlock
+
+# Todonotes
+*.tdo
+
+# Vhistory
+*.hst
+*.ver
+
+# xindy
+*.xdy
+
+# xypic precompiled matrices and outlines
+*.xyc
+
+# endfloat
+*.ttt
+*.fff
+
+# Latexian
+TSWLatexianTemp*
+
+## Editors:
+# WinEdt
+*.bak
+*.sav
+
+# Texpad
+.texpadtmp
+
+# LyX
+*.lyx~
+
+# Kile
+*.kilepr
+
+# KBibTeX
+*~[0-9]*
+
+# TeXnicCenter
+*.tps
+
+# auto folder when using emacs and auctex
+./auto/*
+*.el
+
+# expex forward references with \gathertags
+*-tags.tex
+
+# fdb_latexmk
+*.fdb_latexmk
+
+# morerhythm
+*.rhythm
+
+# PDF files (uncomment if you want to exclude PDFs)
+# *.pdf
+
+# Carpetas de archivos temporales
+temp/
+build/
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+*.tmp
+*~
+
+# IDE/Editor files
+.vscode/
+*.swp
+*.swo
+*~
+
+# Node modules si tienes algún tooling de JS
+node_modules/
+
+# Backups
+*.backup
+*-backup.*

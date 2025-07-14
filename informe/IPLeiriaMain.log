@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.5.7)  13 JUL 2025 21:00
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.5.7)  13 JUL 2025 21:57
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1571,7 +1571,7 @@ Package csquotes Info: Redefining alias 'default' -> 'english'.
 LaTeX Font Info:    Trying to load font information for T1+qpl on input line 31.
  (C:\Users\gamur\AppData\Local\Programs\MiKTeX\tex/latex/tex-gyre\t1qpl.fd
 File: t1qpl.fd 2009/09/25 v1.2 font definition file for T1/qpl
-) (IPLeiriaMain.aux (Matter/00-Cover.aux) (Matter/01-Front-Page.aux) (Matter/02-Copyright.aux) (Chapters/00-Abstract.aux) (Chapters/01-Introduction.aux) (Chapters/02-Marco-Teorico.aux) (Chapters/03-Analisis-Diseno.aux) (Chapters/04-Proceso-Diseno.aux) (Chapters/05-Arquitectura-Sistema.aux) (Chapters/06-Implementacion.aux))
+) (IPLeiriaMain.aux (Matter/00-Cover.aux) (Matter/01-Front-Page.aux) (Matter/02-Copyright.aux) (Chapters/00-Abstract.aux) (Chapters/01-Introduction.aux) (Chapters/02-Marco-Teorico.aux) (Chapters/03-Analisis-Diseno.aux) (Chapters/04-Proceso-Diseno.aux) (Chapters/05-Arquitectura-Sistema.aux) (Chapters/06-Implementacion.aux) (Chapters/07-Conclusiones.aux))
 \openout1 = `IPLeiriaMain.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/npxmi/m/it on input line 31.
@@ -1777,7 +1777,7 @@ File: unpxsyc.fd 2013/03/24 Fontinst v1.933 font definitions for U/npxsyc.
 )
 
 pdfTeX warning: pdflatex (file ./Figures/Theme/Cover-BG.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<Figures/Theme/Cover-BG.pdf, id=366, 597.23125pt x 845.1575pt>
+<Figures/Theme/Cover-BG.pdf, id=410, 597.23125pt x 845.1575pt>
 File: Figures/Theme/Cover-BG.pdf Graphic file (type pdf)
 <use Figures/Theme/Cover-BG.pdf>
 Package pdftex.def Info: Figures/Theme/Cover-BG.pdf  used on input line 89.
@@ -2096,44 +2096,59 @@ Overfull \hbox (2.22754pt too wide) in paragraph at lines 357--358
 [][][][][][][][][][][][][][][][][][][][][] 
  []
 
-[34]
-Overfull \hbox (15.36765pt too wide) in paragraph at lines 387--388
+
+Overfull \hbox (15.36765pt too wide) in paragraph at lines 370--371
 [][][][][][][][][][][][][][][][][][][][][][][] 
  []
 
-[35]
+[34] [35]
 
 LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <5.5> not available
-(Font)              size <5> substituted on input line 455.
+(Font)              size <5> substituted on input line 438.
 
 
 LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <4.45297> not available
-(Font)              size <5> substituted on input line 455.
+(Font)              size <5> substituted on input line 438.
 
 
 LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <3.35501> not available
-(Font)              size <5> substituted on input line 455.
+(Font)              size <5> substituted on input line 438.
 
-) [36] [37
+) [36]
+\openout2 = `Chapters/07-Conclusiones.aux'.
+
+ (Chapters/07-Conclusiones.tex
+Chapter 7.
+[37
+
+
+
+
+] [38]
+Overfull \hbox (7.7369pt too wide) in paragraph at lines 80--81
+[]\T1/qpl/b/n/10.95 Capacitación Con-tinua\T1/qpl/m/n/10.95 : Man-tener al equipo ac-tu-al-izado con las úl-ti-mas tec-nologías
+ []
+
+) [39] [40
 
 
 
 ]
 
-LaTeX Warning: Empty bibliography on input line 68.
+LaTeX Warning: Empty bibliography on input line 69.
 
-(Matter/09-Back-Page.tex [38
+(Matter/09-Back-Page.tex [41
 
 
 ]
 
 pdfTeX warning: pdflatex (file ./Figures/Theme/Back-Page-BG.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<Figures/Theme/Back-Page-BG.pdf, id=1060, 597.23125pt x 845.1575pt>
+<Figures/Theme/Back-Page-BG.pdf, id=1117, 597.23125pt x 845.1575pt>
 File: Figures/Theme/Back-Page-BG.pdf Graphic file (type pdf)
 <use Figures/Theme/Back-Page-BG.pdf>
 Package pdftex.def Info: Figures/Theme/Back-Page-BG.pdf  used on input line 29.
 (pdftex.def)             Requested size: 597.16599pt x 845.06516pt.
-[39
+[42
 
 
  <./Figures/Theme/Back-Page-BG.pdf>]
@@ -2170,9 +2185,9 @@ Package pdftex.def Info: Figures/Theme/Back-Page-BG.pdf  used on input line 29.
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 )
-runsystem(latexminted cleantemp  --timestamp 20250713210003 79592720F62061E1E8E9E2E536A33C2E)...disabled (restricted).
+runsystem(latexminted cleantemp  --timestamp 20250713215744 79592720F62061E1E8E9E2E536A33C2E)...disabled (restricted).
 
- (IPLeiriaMain.aux (Matter/00-Cover.aux) (Matter/01-Front-Page.aux) (Matter/02-Copyright.aux) (Chapters/00-Abstract.aux) (Chapters/01-Introduction.aux) (Chapters/02-Marco-Teorico.aux) (Chapters/03-Analisis-Diseno.aux) (Chapters/04-Proceso-Diseno.aux) (Chapters/05-Arquitectura-Sistema.aux) (Chapters/06-Implementacion.aux))
+ (IPLeiriaMain.aux (Matter/00-Cover.aux) (Matter/01-Front-Page.aux) (Matter/02-Copyright.aux) (Chapters/00-Abstract.aux) (Chapters/01-Introduction.aux) (Chapters/02-Marco-Teorico.aux) (Chapters/03-Analisis-Diseno.aux) (Chapters/04-Proceso-Diseno.aux) (Chapters/05-Arquitectura-Sistema.aux) (Chapters/06-Implementacion.aux) (Chapters/07-Conclusiones.aux))
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-04>
@@ -2186,23 +2201,23 @@ LaTeX Font Warning: Size substitutions with differences
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 Package rerunfilecheck Info: File `IPLeiriaMain.out' has not changed.
-(rerunfilecheck)             Checksum: 06316D77081FF0EF768267653B0F686B;17525.
+(rerunfilecheck)             Checksum: 42ADA804D793AEC6CBB5D5E1CE6FD28F;19722.
 Package logreq Info: Writing requests to 'IPLeiriaMain.run.xml'.
 \openout1 = `IPLeiriaMain.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 61795 strings out of 474486
- 1282691 string characters out of 5743756
- 2319186 words of memory out of 5000000
- 82543 multiletter control sequences out of 15000+600000
+ 61831 strings out of 474486
+ 1284141 string characters out of 5743756
+ 2322564 words of memory out of 5000000
+ 82569 multiletter control sequences out of 15000+600000
  634159 words of font info for 127 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  123i,13n,121p,2681b,2351s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\gamur\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ectt1095.pk> <C:\Users\gamur\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecss2074.pk> <C:\Users\gamur\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecss1200.pk> <C:\Users\gamur\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecss1440.pk><C:/Users/gamur/AppData/Local/Programs/MiKTeX/fonts/type1/public/tex-gyre/qplb.pfb><C:/Users/gamur/AppData/Local/Programs/MiKTeX/fonts/type1/public/tex-gyre/qplr.pfb><C:/Users/gamur/AppData/Local/Programs/MiKTeX/fonts/type1/public/tex-gyre/qplri.pfb><C:/Users/gamur/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/txsym.pfb>
-Output written on IPLeiriaMain.pdf (61 pages, 561012 bytes).
+Output written on IPLeiriaMain.pdf (64 pages, 573022 bytes).
 PDF statistics:
- 1333 PDF objects out of 1440 (max. 8388607)
- 489 named destinations out of 1000 (max. 500000)
- 815 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1388 PDF objects out of 1440 (max. 8388607)
+ 492 named destinations out of 1000 (max. 500000)
+ 903 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -110,12 +110,23 @@
 \contentsline {subsection}{\numberline {6.6.1}Servicio de Datos}{33}{subsection.6.6.1}%
 \contentsline {section}{\numberline {6.7}Optimización y Performance}{34}{section.6.7}%
 \contentsline {subsection}{\numberline {6.7.1}Lazy Loading}{34}{subsection.6.7.1}%
-\contentsline {subsection}{\numberline {6.7.2}Optimización de Imágenes}{34}{subsection.6.7.2}%
-\contentsline {section}{\numberline {6.8}Testing y Validación}{35}{section.6.8}%
-\contentsline {subsection}{\numberline {6.8.1}Pruebas Unitarias}{35}{subsection.6.8.1}%
+\contentsline {section}{\numberline {6.8}Testing y Validación}{34}{section.6.8}%
+\contentsline {subsection}{\numberline {6.8.1}Pruebas Unitarias}{34}{subsection.6.8.1}%
 \contentsline {section}{\numberline {6.9}Build y Despliegue}{35}{section.6.9}%
 \contentsline {subsection}{\numberline {6.9.1}Configuración de Producción}{35}{subsection.6.9.1}%
-\contentsline {subsection}{\numberline {6.9.2}Integración con la Metodología de Jesse James Garrett}{36}{subsection.6.9.2}%
-\contentsline {section}{\numberline {6.10}Métricas de Implementación}{36}{section.6.10}%
-\contentsline {subsection}{\numberline {6.10.1}Rendimiento Logrado}{36}{subsection.6.10.1}%
+\contentsline {subsection}{\numberline {6.9.2}Integración con la Metodología de Jesse James Garrett}{35}{subsection.6.9.2}%
+\contentsline {section}{\numberline {6.10}Métricas de Implementación}{35}{section.6.10}%
+\contentsline {subsection}{\numberline {6.10.1}Rendimiento Logrado}{35}{subsection.6.10.1}%
 \contentsline {subsection}{\numberline {6.10.2}Funcionalidades Implementadas}{36}{subsection.6.10.2}%
+\contentsline {chapter}{\numberline {7}Conclusiones y Recomendaciones}{37}{chapter.7}%
+\contentsline {section}{\numberline {7.1}Conclusiones}{37}{section.7.1}%
+\contentsline {subsection}{\numberline {7.1.1}Cumplimiento de Objetivos}{37}{subsection.7.1.1}%
+\contentsline {subsection}{\numberline {7.1.2}Metodología Aplicada}{37}{subsection.7.1.2}%
+\contentsline {subsection}{\numberline {7.1.3}Tecnologías Utilizadas}{38}{subsection.7.1.3}%
+\contentsline {subsection}{\numberline {7.1.4}Resultados Obtenidos}{38}{subsection.7.1.4}%
+\contentsline {section}{\numberline {7.2}Recomendaciones}{38}{section.7.2}%
+\contentsline {subsection}{\numberline {7.2.1}Para Futuros Desarrollos}{38}{subsection.7.2.1}%
+\contentsline {subsection}{\numberline {7.2.2}Mejoras Técnicas}{38}{subsection.7.2.2}%
+\contentsline {subsection}{\numberline {7.2.3}Escalabilidad y Evolución}{39}{subsection.7.2.3}%
+\contentsline {subsection}{\numberline {7.2.4}Metodología y Procesos}{39}{subsection.7.2.4}%
+\contentsline {section}{\numberline {7.3}Impacto del Proyecto}{39}{section.7.3}%

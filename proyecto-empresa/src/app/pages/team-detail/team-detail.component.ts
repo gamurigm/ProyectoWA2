@@ -16,7 +16,7 @@ import { TeamMember } from '../../models/team-member.model';
           <div class="hero-content">
             <div class="member-image">
               <img [src]="member.photo" [alt]="member.name" 
-                   onerror="this.src='assets/images/placeholder-avatar.jpg'">
+                   onerror="this.src='/placeholder.svg'">
             </div>
             <div class="member-info">
               <h1>{{ member.name }}</h1>
@@ -38,6 +38,18 @@ import { TeamMember } from '../../models/team-member.model';
                   <i class="fab fa-github"></i>
                   GitHub
                 </a>
+                <a [href]="member.instagram" *ngIf="member.instagram" target="_blank" class="contact-btn instagram">
+                  <i class="fab fa-instagram"></i>
+                  Instagram
+                </a>
+                <a [href]="member.facebook" *ngIf="member.facebook" target="_blank" class="contact-btn facebook">
+                  <i class="fab fa-facebook-f"></i>
+                  Facebook
+                </a>
+                <a [href]="member.twitter" *ngIf="member.twitter" target="_blank" class="contact-btn twitter">
+                  <i class="fab fa-x-twitter"></i>
+                  Twitter/X
+                </a>
               </div>
             </div>
           </div>
@@ -53,12 +65,24 @@ import { TeamMember } from '../../models/team-member.model';
         <div class="container">
           <div class="section-content">
             <h3>Acerca de {{ member.name.split(' ')[0] }}</h3>
-            <p class="description">{{ member.description }}</p>
+            <p class="description" *ngIf="member.fullBio">{{ member.fullBio }}</p>
+            <p class="description" *ngIf="!member.fullBio">{{ member.description }}</p>
+            
+            <!-- Achievements Section for Alvina -->
+            <div class="achievements" *ngIf="member.achievements && member.achievements.length > 0">
+              <h4>Logros Principales</h4>
+              <ul class="achievements-list">
+                <li *ngFor="let achievement of member.achievements">
+                  <i class="fas fa-star"></i>
+                  {{ achievement }}
+                </li>
+              </ul>
+            </div>
             
             <div class="details-grid">
               <div class="detail-card">
                 <h4>Especialización</h4>
-                <p>{{ getSpecialization() }}</p>
+                <p>{{ member.specialization || getSpecialization() }}</p>
               </div>
               <div class="detail-card">
                 <h4>Años de Experiencia</h4>
@@ -224,9 +248,10 @@ import { TeamMember } from '../../models/team-member.model';
     }
 
     .contact-links {
-      display: flex;
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
       gap: 1rem;
-      flex-wrap: wrap;
+      max-width: 600px;
     }
 
     .contact-btn {
@@ -251,6 +276,9 @@ import { TeamMember } from '../../models/team-member.model';
     .contact-btn.email:hover { background: #ea4335; }
     .contact-btn.linkedin:hover { background: #0077b5; }
     .contact-btn.github:hover { background: #333; }
+    .contact-btn.instagram:hover { background: #e4405f; }
+    .contact-btn.facebook:hover { background: #1877f2; }
+    .contact-btn.twitter:hover { background: #000; }
 
     .back-btn {
       position: absolute;
@@ -293,6 +321,49 @@ import { TeamMember } from '../../models/team-member.model';
       max-width: 800px;
       margin: 0 auto 3rem;
       text-align: center;
+    }
+
+    /* Achievements Section */
+    .achievements {
+      max-width: 800px;
+      margin: 0 auto 3rem;
+      padding: 2rem;
+      background: white;
+      border-radius: 15px;
+      box-shadow: 0 4px 25px rgba(0,0,0,0.1);
+    }
+
+    .achievements h4 {
+      font-size: 1.5rem;
+      color: #667eea;
+      margin-bottom: 1.5rem;
+      font-weight: 600;
+      text-align: center;
+    }
+
+    .achievements-list {
+      list-style: none;
+      padding: 0;
+      margin: 0;
+    }
+
+    .achievements-list li {
+      display: flex;
+      align-items: center;
+      gap: 1rem;
+      padding: 0.8rem 0;
+      border-bottom: 1px solid #e2e8f0;
+      font-size: 1.1rem;
+      color: #4a5568;
+    }
+
+    .achievements-list li:last-child {
+      border-bottom: none;
+    }
+
+    .achievements-list li i {
+      color: #ffd700;
+      font-size: 1rem;
     }
 
     .details-grid {

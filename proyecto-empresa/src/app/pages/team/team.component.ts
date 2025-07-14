@@ -43,6 +43,15 @@ import { TeamMember } from '../../models/team-member.model';
                         <a [href]="member.github" *ngIf="member.github" target="_blank" aria-label="GitHub">
                           <i class="fab fa-github"></i>
                         </a>
+                        <a [href]="member.instagram" *ngIf="member.instagram" target="_blank" aria-label="Instagram">
+                          <i class="fab fa-instagram"></i>
+                        </a>
+                        <a [href]="member.facebook" *ngIf="member.facebook" target="_blank" aria-label="Facebook">
+                          <i class="fab fa-facebook-f"></i>
+                        </a>
+                        <a [href]="member.twitter" *ngIf="member.twitter" target="_blank" aria-label="Twitter/X">
+                          <i class="fab fa-x-twitter"></i>
+                        </a>
                         <a [href]="'mailto:' + member.email" aria-label="Email">
                           <i class="fas fa-envelope"></i>
                         </a>
@@ -283,8 +292,10 @@ import { TeamMember } from '../../models/team-member.model';
     }
 
     .social-links {
-      display: flex;
-      gap: 1rem;
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 0.8rem;
+      max-width: 200px;
     }
 
     .social-links a {

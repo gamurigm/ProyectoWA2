@@ -1,4 +1,4 @@
-import { Component, OnInit } from '@angular/core';
+import { Component, computed, signal } from '@angular/core';
 import { CommonModule } from '@angular/common';
 import { ActivatedRoute, Router, RouterLink } from '@angular/router';
 import { DataService } from '../../services/data.service';
@@ -9,7 +9,7 @@ import { TeamMember } from '../../models/team-member.model';
   standalone: true,
   imports: [CommonModule, RouterLink],
   template: `
-    <div class="team-detail-page page-content" *ngIf="member">
+    <div class="team-detail-page page-content" *ngIf="memberSignal() as member">
       <!-- Hero Section -->
       <section class="hero">
         <div class="container">
@@ -67,7 +67,6 @@ import { TeamMember } from '../../models/team-member.model';
             <h3>Acerca de {{ member.name.split(' ')[0] }}</h3>
             <p class="description" *ngIf="member.fullBio">{{ member.fullBio }}</p>
             <p class="description" *ngIf="!member.fullBio">{{ member.description }}</p>
-            
             <!-- Achievements Section for Alvina -->
             <div class="achievements" *ngIf="member.achievements && member.achievements.length > 0">
               <h4>Logros Principales</h4>
@@ -78,11 +77,10 @@ import { TeamMember } from '../../models/team-member.model';
                 </li>
               </ul>
             </div>
-            
             <div class="details-grid">
               <div class="detail-card">
                 <h4>Especialización</h4>
-                <p>{{ member.specialization || getSpecialization() }}</p>
+                <p>{{ member.specialization || getSpecialization(member) }}</p>
               </div>
               <div class="detail-card">
                 <h4>Años de Experiencia</h4>
@@ -175,7 +173,7 @@ import { TeamMember } from '../../models/team-member.model';
     </div>
 
     <!-- Not Found -->
-    <div class="not-found" *ngIf="!member && !loading">
+    <div class="not-found" *ngIf="!memberSignal()">
       <div class="container">
         <h1>Miembro no encontrado</h1>
         <p>El miembro del equipo que buscas no existe o ha sido removido.</p>
@@ -702,9 +700,12 @@ import { TeamMember } from '../../models/team-member.model';
     }
   `]
 })
-export class TeamDetailComponent implements OnInit {
-  member: TeamMember | undefined;
-  loading = true;
+export class TeamDetailComponent {
+  memberIdSignal = signal<number | null>(null);
+  memberSignal = computed(() => {
+    const id = this.memberIdSignal();
+    return id !== null ? this.dataService.getTeamMemberByIdSignal(id)() : undefined;
+  });
 
   mockProjects = [
     {
@@ -752,27 +753,17 @@ export class TeamDetailComponent implements OnInit {
     private route: ActivatedRoute,
     private router: Router,
     private dataService: DataService
-  ) {}
-
-  ngOnInit() {
+  ) {
     const id = Number(this.route.snapshot.paramMap.get('id'));
-    this.member = this.dataService.getTeamMemberById(id);
-    this.loading = false;
-
-    if (!this.member) {
-      setTimeout(() => {
-        this.router.navigate(['/equipo']);
-      }, 3000);
-    }
+    this.memberIdSignal.set(isNaN(id) ? null : id);
   }
 
-  getSpecialization(): string {
-    if (!this.member) return '';
-    
-    if (this.member.role.includes('Full Stack')) return 'Desarrollo Full Stack';
-    if (this.member.role.includes('Frontend')) return 'Desarrollo Frontend';
-    if (this.member.role.includes('Backend')) return 'Desarrollo Backend';
-    if (this.member.role.includes('DevOps')) return 'DevOps y Cloud';
+  getSpecialization(member: TeamMember): string {
+    if (!member) return '';
+    if (member.role.includes('Full Stack')) return 'Desarrollo Full Stack';
+    if (member.role.includes('Frontend')) return 'Desarrollo Frontend';
+    if (member.role.includes('Backend')) return 'Desarrollo Backend';
+    if (member.role.includes('DevOps')) return 'DevOps y Cloud';
     return 'Desarrollo de Software';
   }
 
@@ -794,7 +785,6 @@ export class TeamDetailComponent implements OnInit {
       'Figma': 'fab fa-figma',
       'CSS3': 'fab fa-css3-alt'
     };
-    
     return icons[tech] || 'fas fa-code';
   }
 }

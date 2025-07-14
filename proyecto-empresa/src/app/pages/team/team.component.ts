@@ -1,4 +1,4 @@
-import { Component, OnInit } from '@angular/core';
+import { Component } from '@angular/core';
 import { CommonModule } from '@angular/common';
 import { RouterLink } from '@angular/router';
 import { DataService } from '../../services/data.service';
@@ -26,7 +26,7 @@ import { TeamMember } from '../../models/team-member.model';
       <!-- Team Members -->
       <section class="team-members">
         <div class="container">
-          <div class="team-grid">
+          <div class="team-grid" *ngIf="teamMembersSignal() as teamMembers">
             <div class="team-card" *ngFor="let member of teamMembers">
               <div class="card-inner">
                 <!-- Front of card -->
@@ -509,8 +509,8 @@ import { TeamMember } from '../../models/team-member.model';
     }
   `]
 })
-export class TeamComponent implements OnInit {
-  teamMembers: TeamMember[] = [];
+export class TeamComponent {
+  teamMembersSignal;
   teamStats = {
     totalMembers: 25,
     technologies: 20,
@@ -518,9 +518,7 @@ export class TeamComponent implements OnInit {
     avgExperience: 6
   };
 
-  constructor(private dataService: DataService) {}
-
-  ngOnInit() {
-    this.teamMembers = this.dataService.getTeamMembers();
+  constructor(private dataService: DataService) {
+    this.teamMembersSignal = this.dataService.getTeamMembersSignal();
   }
 }

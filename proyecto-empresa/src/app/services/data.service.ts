@@ -1,4 +1,4 @@
-import { Injectable } from '@angular/core';
+import { Injectable, signal, WritableSignal, computed } from '@angular/core';
 import { TeamMember } from '../models/team-member.model';
 import { CompanyInfo } from '../models/company.model';
 
@@ -7,7 +7,7 @@ import { CompanyInfo } from '../models/company.model';
 })
 export class DataService {
 
-  private teamMembers: TeamMember[] = [
+  private readonly _teamMembers = signal<TeamMember[]>([
     {
       id: 1,
       name: 'Alvina Antar',
@@ -64,7 +64,7 @@ export class DataService {
       twitter: 'http://x.com/techsolutionsde',
       experience: 10
     }
-  ];
+  ]);
 
   private companyInfo: CompanyInfo = {
     name: 'TechSolutions Pro',
@@ -85,12 +85,14 @@ export class DataService {
     clients: 85
   };
 
-  getTeamMembers(): TeamMember[] {
-    return this.teamMembers;
+
+  getTeamMembersSignal() {
+    return this._teamMembers.asReadonly();
   }
 
-  getTeamMemberById(id: number): TeamMember | undefined {
-    return this.teamMembers.find(member => member.id === id);
+
+  getTeamMemberByIdSignal(id: number) {
+    return computed(() => this._teamMembers().find(member => member.id === id));
   }
 
   getCompanyInfo(): CompanyInfo {

@@ -67,9 +67,29 @@ src/app/
 | **Angular** | 19.x | Framework principal |
 | **TypeScript** | 5.x | Tipado estático |
 | **SCSS** | 3.x | Estilos avanzados |
-| **RxJS** | 7.x | Programación reactiva |
 | **Angular Router** | 19.x | Navegación SPA |
 | **Reactive Forms** | 19.x | Formularios dinámicos |
+
+## 🧩 Recursos de Angular Usados en el Proyecto
+
+| Recurso Angular         | Archivo(s) donde se usa                                                                 |
+|------------------------|----------------------------------------------------------------------------------------|
+| **Component**              | Todos los archivos `*.component.ts`                                                    |
+| **Injectable**             | `src/app/services/data.service.ts`                                                     |
+| **signal, WritableSignal** | `src/app/services/data.service.ts`                                                     |
+| **computed**               | `src/app/services/data.service.ts`                                                     |
+| **CommonModule**           | Todos los componentes standalone (`*.component.ts`)                                    |
+| **\*ngIf, \*ngFor**        | Plantillas de componentes (`team.component.ts`, `team-detail.component.ts`, etc.)      |
+| **RouterLink, Router...**  | Plantillas de componentes de navegación y páginas                                      |
+| **ActivatedRoute**         | `src/app/pages/team-detail/team-detail.component.ts`                                   |
+| **FormGroup, FormControl** | `src/app/pages/contact/contact.component.ts`                                           |
+| **Validators**             | `src/app/pages/contact/contact.component.ts`                                           |
+| **standalone: true**       | Todos los archivos `*.component.ts`                                                    |
+| **SCSS**                   | Archivos de estilos globales y de componentes                                         |
+| **Font Awesome**           | Plantillas de componentes                                                              |
+| **Google Fonts (Inter)**   | Estilos globales (`src/styles.scss`)                                                   |
+
+---
 
 ## 📁 Estructura del Proyecto
 

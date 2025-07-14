@@ -12,7 +12,6 @@ import { CommonModule } from '@angular/common';
         <div class="nav-container">
           <div class="nav-logo">
             <a routerLink="/inicio" class="logo-link">
-              <img src="assets/images/logo.svg" alt="TechSolutions Pro" class="logo-img">
               <span class="logo-text">TechSolutions Pro</span>
             </a>
           </div>

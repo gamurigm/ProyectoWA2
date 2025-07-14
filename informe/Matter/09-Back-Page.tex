@@ -5,12 +5,15 @@
 \thispagestyle{empty}
 
 \ifthenelse{\equal{\CoverOption}{classic}}{
+% Simplified back page without background images
+\ifthenelse{\equal{\CoverOption}{classic}}{
     \newcommand\BackgroundPicBackPage{%
     \put(0,0){%
     \parbox[b][\paperheight]{\paperwidth}{%
     \vfill
     \centering
-    \includegraphics[width=\paperwidth,height=\paperheight,keepaspectratio]{Figures/Theme/Back-Page-BG.pdf}%
+    % Simple background color instead of image
+    \textcolor{gray!5}{\rule{\paperwidth}{\paperheight}}%
     \vfill
     }}}
 }{
@@ -19,12 +22,14 @@
     \parbox[b][\paperheight]{\paperwidth}{%
     \vfill
     \centering
-    \includegraphics[width=\paperwidth,height=\paperheight,keepaspectratio]{Figures/Theme/Back-Page-BG-W.pdf}%
+    % Simple background color instead of image
+    \textcolor{blue!5}{\rule{\paperwidth}{\paperheight}}%
     \vfill
     }}}
 }
 
-\AddToShipoutPictureBG*{\BackgroundPicBackPage}
+% Comment out the background for now
+% \AddToShipoutPictureBG*{\BackgroundPicBackPage}
 
 \newgeometry{margin=1.98cm, top=1.47cm, bottom=1.47cm}
 \noindent\clearpage

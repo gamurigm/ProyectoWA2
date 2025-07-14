@@ -1,14 +1,16 @@
-% Simplified background without PSTricks conflicts
+% Simplified cover without background image
 \newcommand\BackgroundPicCover{%
 \put(0,0){%
 \parbox[b][\paperheight]{\paperwidth}{%
 \vfill
 \centering
-\includegraphics[width=\paperwidth,height=\paperheight,keepaspectratio]{Figures/Theme/Cover-BG.pdf}%
+% Background color instead of image
+\textcolor{blue!10}{\rule{\paperwidth}{\paperheight}}%
 \vfill
 }}}
 
-\AddToShipoutPictureBG*{\BackgroundPicCover}
+% Comment out the background for now
+% \AddToShipoutPictureBG*{\BackgroundPicCover}
 
 \newgeometry{margin=1.98cm, top=2.15cm, bottom=1.47cm}
 \begin{titlepage}

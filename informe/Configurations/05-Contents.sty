@@ -1,5 +1,12 @@
 %%% Custom ToC Entries %%%
 \newcommand{\bookmarktocentry}{\pdfbookmark[0]{\contentsname}{toc}}
+
+% Ensure table of contents text is black
+\renewcommand{\tableofcontents}{%
+  \color{black}%
+  \chapter*{\contentsname}%
+  \@starttoc{toc}%
+}
 \ProvideDocumentCommand\MakeLinkTarget{sO{}m}{}
 \patchcmd{\listoffigures}
 {\chapter*{\listfigurename}}
@@ -17,10 +24,10 @@
 \providecommand*{\toclevel@frontmatter}{0}
 \providecommand*{\toclevel@backmatter}{0}
 
-\patchcmd{\l@frontmatter}{\bfseries}{\itshape}{}{}
+\patchcmd{\l@frontmatter}{\bfseries}{\itshape\color{black}}{}{}
 \patchcmd{\l@frontmatter}{\nobreak\hfil}{\upshape\nobreak\hfil}{}{}
 \patchcmd{\l@frontmatter}{1.0em}{3pt}{}{} 
-\patchcmd{\l@backmatter}{\bfseries}{\itshape}{}{}
+\patchcmd{\l@backmatter}{\bfseries}{\itshape\color{black}}{}{}
 \patchcmd{\l@backmatter}{\nobreak\hfil}{\upshape\nobreak\hfil}{}{}
 
 \defbibheading{bibintoc}{\chapter*{#1}\addcontentsline{toc}{backmatter}{\refname}}

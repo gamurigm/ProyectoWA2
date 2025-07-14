@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.5.7)  13 JUL 2025 22:49
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.5.7)  13 JUL 2025 22:55
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2692,7 +2692,7 @@ Package pdftex.def Info: Figures/Theme/Back-Page-BG.pdf  used on input line 31.
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 )
-runsystem(latexminted cleantemp  --timestamp 20250713224918 79592720F62061E1E8E
+runsystem(latexminted cleantemp  --timestamp 20250713225535 79592720F62061E1E8E
 9E2E536A33C2E)...disabled (restricted).
 
  (IPLeiriaMain.aux (Matter/00-Cover.aux) (Matter/01-Front-Page.aux) (Matter/02-

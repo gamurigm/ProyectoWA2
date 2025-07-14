@@ -1,0 +1,37 @@
+version: '3.8'
+
+services:
+  # Servicio para desarrollo
+  proyecto-empresa-dev:
+    build:
+      context: .
+      dockerfile: Dockerfile.dev
+    ports:
+      - "4200:4200"
+    volumes:
+      - .:/app
+      - /app/node_modules
+    environment:
+      - NODE_ENV=development
+    command: npm start
+    networks:
+      - proyecto-network
+
+  # Servicio para producción
+  proyecto-empresa-prod:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: ryuzakizeitan/wap2:latest
+    ports:
+      - "80:80"
+    networks:
+      - proyecto-network
+    restart: unless-stopped
+
+networks:
+  proyecto-network:
+    driver: bridge
+
+volumes:
+  node_modules:
